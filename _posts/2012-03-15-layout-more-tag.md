@@ -14,6 +14,6 @@ This content is before the [excerpt separator tag](http://jekyllrb.com/docs/post
 
 Right after this sentence there should be a **continue reading** link of some sort in archive-index pages.
 
-<!--more-->
+<--more-->
 
 And this content is after the more tag.
