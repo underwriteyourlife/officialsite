@@ -1,5 +1,6 @@
 ---
 title: "Layout: Sidebar Custom"
+layout: Front Matter
 excerpt: "A post to custom sidebar content."
 author_profile: false
 sidebar:
