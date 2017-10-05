@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: About
-  url: http://underwriteyourlife.github.io/_pages/About.md
+  url: /about/
   image: 300x200.gif
 
 - title: Meal Prep
