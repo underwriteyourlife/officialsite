@@ -7,7 +7,7 @@ teaser: Meal Prep/Week 4/week-4-finished-product RESIZED.jpg
 ---
 # Week 4 Evaluation
 
-So here we are, lets take a look at how our dishes held up throughout Week 4. If you haven't already, [take a look at the menu](https://underwriteyourlife.github.io/mealprep/Week4/) for Week 4 before reading on. 
+So here we are, lets take a look at how our dishes held up throughout Week 4. If you haven't already, [take a look at the menu](https://underwriteyourlife.github.io/meal%20prep/Week4/) for Week 4 before reading on. 
 
 # Chicken Curry Salad:
 
