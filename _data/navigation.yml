@@ -1,6 +1,7 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Meal Prep
+  url: /mealprep/
+  excerpt: "Cooking questionable stuff"
+  image: https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/Meal%20Prep/Week%204/Week%204%20Finished%20Product.jpg?raw=true
+ 
