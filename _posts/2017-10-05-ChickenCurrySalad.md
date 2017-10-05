@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 4 Evaluation
+title: Chicken Curry Salad
 category: Meal Prep
 tags: Meal Prep
 excerpt: Sometimes I put the word salad into recipes to make them feel healthier than they are...
@@ -14,7 +14,7 @@ While I was on the fence about cooking chicken as part of a meal-prep week becau
 
 All-in-all, this meal was super easy and quick to cook and I have been looking forward to lunch every day because I get to munch down on this originally questionable meal choice. 
 
-![chickencurrycloseup]({{ site.baseurl }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry.jpg)
+![chickencurrycloseup]({{ site.baseurl }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry.jpg width="600")
 
 Here are the ingredients you'll need to cook this dish! All together it made 6 servings of 1 cups each (so just about 6 cups), with each serving only costing your wallet $1.36 and waistline 247 calories. 
 
