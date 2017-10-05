@@ -1,5 +1,9 @@
 # Site navigation links
 
+- title: About
+  url: /about/
+  image: 300x200.gif
+
 - title: Meal Prep
   url: /mealprep/
   excerpt: "Meal Prep"
@@ -7,5 +11,11 @@
 
 - title: Recipes
   url: /recipes/
+  excerpt: "Recipes that were edible"
+  image: 300x200.gif
+  
+- title: Recipes for Failure
+  excerpt: "Recipes that weren't so edible"
+  url: /recipesforfailure/
   image: 300x200.gif
   
