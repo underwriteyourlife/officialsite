@@ -1,7 +1,7 @@
 ---
 layout: default
-title: about
-permalink: /about/
+title: About
+permalink: /About/
 ---
 Welcome to Underwrite Your Life!
 
