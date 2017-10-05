@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /About/
+permalink: underwriteyourlife.github.io/_pages/About.md
 ---
 Welcome to Underwrite Your Life!
 
