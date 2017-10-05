@@ -3,7 +3,7 @@ layout: default
 title: Week 4 Evaluation
 category: Meal Prep
 tags: Meal Prep
-teaser: unsplash-image-1.jpg
+teaser: "Meal Prep/Week 4/week-4-finished-product RESIZED.jpg"
 ---
 # Week 4 Evaluation
 
