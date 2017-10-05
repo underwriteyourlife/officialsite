@@ -2,10 +2,10 @@
 
 title: "Underwrite Your Life"
 description: "Finance for the Rest of Us"
-logo: https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/logo/Logo1.JPG?raw=true
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: #120x120 image used mainly for twitter cards if a large feature image isn't there. upload this to images folder then link here
+teaser: https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/Webp.net-resizeimage%20(1).png?raw=true# 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: http://localhost:4000
 feed:
   path: atom.xml
 
@@ -26,14 +26,14 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name:Emily
+  email: underwriteyourlife@gmail.com
   twitter:
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: https://supportcentral.gecdn.com/images/person/temp/212595867.jpg # 160x160 px image for author byline
+  avatar: https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/internal_Flippen_Emily0H4A1687%20(002).jpg?raw=true # 160x160 px image for author byline
   disqus-shortname:
 
 
