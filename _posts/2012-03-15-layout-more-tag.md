@@ -1,5 +1,6 @@
 ---
 title: "Layout: More Tag"
+layout: default
 categories:
   - Layout
   - Uncategorized
