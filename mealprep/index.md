@@ -8,7 +8,8 @@
 <div class="tiles">
 {% for post in site.posts %}
   {% if post.category="Meal Prep" %}
-	  {% include post-grid.html %}
+    Cats
+	  <!--{% include post-grid.html %}-->
   {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
