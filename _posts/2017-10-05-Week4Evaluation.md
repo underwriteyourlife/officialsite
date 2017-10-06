@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Week 4 Evaluation
+title: Week 4 Meal Prep Evaluation
+excerpt: A quick look at how Week 4's dishes lasted throughout the week
 category: Meal Prep
 tags: Meal Prep
 teaser: Meal Prep/Week 4/week-4-finished-product RESIZED.jpg
 ---
-# Week 4 Evaluation
+# Week 4 Meal Prep Evaluation
 
 So here we are, lets take a look at how our dishes held up throughout Week 4. If you haven't already, [take a look at the menu](https://underwriteyourlife.github.io/meal%20prep/Week4/) for Week 4 before reading on. 
 
@@ -19,6 +20,8 @@ This was by far the best prepped meal I have made to date. I was a little afraid
 	<img src="{{ site.url }}/images/Meal Prep/Week 4/evaluation/chickencurrysalad/fridayRESIZED.jpg">
 	<figcaption>The chicken curry salad on Monday, Wednesday, and Friday.</figcaption>
 </figure>
+
+The only caveat is that on Friday, the chips started to feel a little stiffer and more stale than the previous days. It was still completely edible, however, they were just not as fresh as Monday. Regardless, I am impressed that they lasted so long in the first place. They did not get soft or wet from being in the refrigerator along with the chicken curry salad. 
 
 # Coconut Curry Lentils:
 
