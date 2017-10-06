@@ -5,6 +5,15 @@
  author_profile: false
 ---
 
+<div class="tiles">
+{% for post in site.posts %}
+  {% if post.category="Meal Prep" %}
+	  {% include post-grid.html %}
+  {% endif %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<!--
 {% include base_path %}
 {% include group-by-array collection=site.posts field="Meal Prep" %}
 
@@ -15,3 +24,4 @@
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+-->
