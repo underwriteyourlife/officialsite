@@ -14,13 +14,13 @@ While I was on the fence about cooking chicken as part of a meal-prep week becau
 
 All-in-all, this meal was super easy and quick to cook and I have been looking forward to lunch every day because I get to munch down on this originally questionable meal choice. 
 
-<img src="{{ site.url }}/images/Meal Prep/Week 4/evaluation/chickencurrysalad/mondayRESIZED.jpg">
-
-![chickencurrycloseup]({{ site.baseurl }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry.jpg width="600")
-
 Here are the ingredients you'll need to cook this dish! All together it made 6 servings of 1 cups each (so just about 6 cups), with each serving only costing your wallet $1.36 and waistline 247 calories. 
 
-![chickencurryingredients](<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chicken Curry Salad Ingredients.jpg"> "Total Ingredients")
+<figure class="half">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry RESIZED.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chicken Curry Salad Ingredients RESIZED.jpg">
+	<figcaption>Chicken Curry Salad Final Product and Ingredient List</figcaption>
+</figure>
 
 **Ingredient** | **Amount** | **Cost** |   **Calories**
 |:------------- |:-------------:| :-----:|   -----:|
@@ -44,25 +44,24 @@ In total, that is $11.59 US dollars worth of ingredients and 1481.5 calories.
 
 Since we are making such a large amount of chicken, I like to go ahead and cook the chicken so we can let it sit while we chop our ingredients and make the sauce. So go ahead an unpackage your chicken and cook it however you'd like! I'm not a huge lemon fan, so I chose to just add some basic salt and pepper to my chicken, but you can definitely marinate the chicken in lemon then grill if it is your fancy. 
 
-![chickeninpan](<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chicken in Pan.jpg"> "Chicken Cooking in Pan")
+<figure class="half">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chicken in Pan RESIZED.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chopped Chicken RESIZED.jpg">
+	<figcaption>Cooking and Chopping the Chicken</figcaption>
+</figure>
 
 <h2> Step 2 </h2>
 
 While the chicken is cooking, go ahead and dice the onion, apple, and celery. Once the apple is diced, take your half lemon and just squeeze a little bit of the juice onto the apple and mix it around. This should help preserve the crunchiness of the apple and prevent browning. 
 
-<h2> Step 3 </h2>
-
-Once the chicken is cooked through, take it off the heat and chop it up into bite-sized pieces. 
-
-![chopped chicken](<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chopped Chicken.jpg"> "chopped chicken")
-
 <h2> Step 4 </h2>
 
 While the chicken is cooling down, we can go ahead and make the sauce! To a large bowl, add the mayonnaise, yogurt, honey, curry powder, salt, pepper, and rest of the juice from the half lemon then mix. 
 
-![choppedingredients](<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chopped Ingredients and Sauce.jpg"> "Chopped Ingredients")
+<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chopped Ingredients and Sauce RESIZED.jpg">
 
 <h2> Step 5 </h2>
 Lastly, just add the chopped ingredients, chicken, and raisins to the sauce and mix everything together! It should be coated in the mixture but not dripping. Take the deliciousness that you've just created, put it on a plate (or other storage container), top with some fresh green and red onion, then eat! I choose to serve it with some crackers on the side for extra crunch. 
 
-![chickencurrycloseup](<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry.jpg"> "Close Up of Chicken Curry")
+
+<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry.jpg">
