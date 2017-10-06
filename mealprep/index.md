@@ -7,7 +7,7 @@
 
 <div class="tiles">
 {% for post in site.posts %}
-  {% if post.category="Meal Prep" %}
+  {% if post.category="mealprep" %}
     Cats
 	  <!--{% include post-grid.html %}-->
   {% endif %}
@@ -18,7 +18,7 @@
 {% include base_path %}
 {% include group-by-array collection=site.posts field="Meal Prep" %}
 
-{% for category in group_names %}
+<!--{% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
   {% for post in posts %}
