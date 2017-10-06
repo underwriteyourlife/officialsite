@@ -71,7 +71,7 @@ Add one cup of flour and mix:
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Unmixed Dough RESIZED.jpg">
-  <img src="{{ site.url }}/images/Meal Prep/Week 4/Coconut Lentils/Unrolled Dough RESIZED.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Unrolled Dough RESIZED.jpg">
 	<figcaption>Unmixed and Unrolled Dough</figcaption>
 </figure>
 
