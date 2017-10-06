@@ -59,7 +59,7 @@ Only cook it for long enough that it is soft and melted. If it is too hot, it wi
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Yeast RESIZED.jpg">
-  <img src="{{ site.url }}/images/Meal Prep/Week 4/Coconut Lentils/Melting Cream Cheese and Butter RESIZED.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Melting Cream Cheese and Butter RESIZED.jpg">
 	<figcaption>Activated Yeast and Melted Butter/Cream Cheese</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Pop those cuties into a preheated oven at about 350 degrees Fahrenheit for 20 mi
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Unbaked Rolls RESIZED.jpg">
-  <img src="{{ site.url }}/images/Meal Prep/Week 4/Coconut Lentils/Pumpkin Rolls in Oven RESIZED.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Pumpkin Rolls in Oven RESIZED.jpg">
 	<figcaption>Rolls before baking and in the oven</figcaption>
 </figure>
 
