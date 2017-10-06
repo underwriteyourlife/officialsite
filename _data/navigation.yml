@@ -2,20 +2,21 @@
 
 - title: About
   url: /about/
-  image: 300x200.gif
+  image: /Webp.net-resizeimage (1).png
 
 - title: Meal Prep
   url: /mealprep/
   excerpt: "Meal Prep"
-  image: https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/Meal%20Prep/Week%204/week-4-finished-product.jpg?raw=true
+  image: /Webp.net-resizeimage (1).png
 
 - title: Recipes
   url: /recipes/
   excerpt: "Recipes that were edible"
-  image: 300x200.gif
+  image: /Webp.net-resizeimage (1).png
   
 - title: Recipes for Failure
   excerpt: "Recipes that weren't so edible"
   url: /recipesforfailure/
-  image: 300x200.gif
+  image: /Webp.net-resizeimage (1).png
+
   
