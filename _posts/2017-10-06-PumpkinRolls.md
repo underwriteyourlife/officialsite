@@ -96,7 +96,7 @@ You can choose to sprinkle the top of the rolls with cinnamon, sugar, and nutmeg
 Pop those cuties into a preheated oven at about 350 degrees Fahrenheit for 20 minutes. They should be golden-brown and firm, but not burnt. If you are unsure if it is fully cooked through, you can poke the largest one with a toothpick. If it comes out clean, the roll is ready. Alternatively, my favorite method is to lightly tap the tops of the rolls with my finger. If there is a hollow sound, that means they are cooked through. 
 
 <figure class="half">
-  <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Unbaked Rolls RESIZED.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Unbaked Rolls.jpg">
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Pumpkin Rolls in Oven RESIZED.jpg">
 	<figcaption>Rolls before baking and in the oven</figcaption>
 </figure>
