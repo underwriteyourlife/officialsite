@@ -54,13 +54,13 @@ Since we are making such a large amount of chicken, I like to go ahead and cook 
 
 While the chicken is cooking, go ahead and dice the onion, apple, and celery. Once the apple is diced, take your half lemon and just squeeze a little bit of the juice onto the apple and mix it around. This should help preserve the crunchiness of the apple and prevent browning. 
 
-<h2> Step 4 </h2>
+<h2> Step 3 </h2>
 
 While the chicken is cooling down, we can go ahead and make the sauce! To a large bowl, add the mayonnaise, yogurt, honey, curry powder, salt, pepper, and rest of the juice from the half lemon then mix. 
 
 <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chopped Ingredients and Sauce RESIZED.jpg">
 
-<h2> Step 5 </h2>
+<h2> Step 4 </h2>
 Lastly, just add the chopped ingredients, chicken, and raisins to the sauce and mix everything together! It should be coated in the mixture but not dripping. Take the deliciousness that you've just created, put it on a plate (or other storage container), top with some fresh green and red onion, then eat! I choose to serve it with some crackers on the side for extra crunch. 
 
 
