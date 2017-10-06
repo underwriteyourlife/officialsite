@@ -4,7 +4,7 @@ title: Pumpkin-Spiced Bread Rolls
 category: Recipe
 tags: Recipe
 excerpt: Sometimes I try to not be a sterotypical white American 20-something female. Other times I just embrace it.
-teaser: Meal Prep/Week 4/week-4-finished-product RESIZED.jpg
+teaser: Meal Prep/Week 4/Pumpkin Rolls/Close-Up of Pumpkin Rolls RESIZED.jpg
 ---
 
 # Pumpkin-Spiced Bread Rolls
