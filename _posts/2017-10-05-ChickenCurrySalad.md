@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Chicken Curry Salad
-category: Meal Prep
-tags: Meal Prep
+category: Recipe
+tags: Recipe
 excerpt: Sometimes I put the word salad into recipes to make them feel healthier than they are...
 teaser: Meal Prep/Week 4/week-4-finished-product RESIZED.jpg
 ---
