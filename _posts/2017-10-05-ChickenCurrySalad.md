@@ -4,7 +4,7 @@ title: Chicken Curry Salad
 category: Recipe
 tags: Recipe
 excerpt: Sometimes I put the word salad into recipes to make them feel healthier than they are...
-teaser: Meal Prep/Week 4/week-4-finished-product RESIZED.jpg
+teaser: Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry RESIZED.jpg
 ---
 # Chicken Curry Salad
 
