@@ -17,7 +17,7 @@ All-in-all, this meal was super easy and quick to cook and I have been looking f
 Here are the ingredients you'll need to cook this dish! All together it made 6 servings of 1 cups each (so just about 6 cups), with each serving only costing your wallet $1.36 and waistline 247 calories. 
 
 <figure class="half">
-  <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry RESIZED.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry.jpg">
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chicken Curry Salad Ingredients RESIZED.jpg">
 	<figcaption>Chicken Curry Salad Final Product and Ingredient List</figcaption>
 </figure>
@@ -64,4 +64,4 @@ While the chicken is cooling down, we can go ahead and make the sauce! To a larg
 Lastly, just add the chopped ingredients, chicken, and raisins to the sauce and mix everything together! It should be coated in the mixture but not dripping. Take the deliciousness that you've just created, put it on a plate (or other storage container), top with some fresh green and red onion, then eat! I choose to serve it with some crackers on the side for extra crunch. 
 
 
-<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry.jpg">
+<img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry RESIZED.jpg">
