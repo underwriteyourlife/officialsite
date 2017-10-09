@@ -20,4 +20,4 @@ Along the way, I plan on sharing some of my own tricks to saving money (like coo
 
 ### Feedback ###
 
-[Click here](underwriteyourlife.com/feedback/) to leave me feedback! I would love to hear any thoughts, comments, suggestions, or snide remarks regarding this website. Feel free to give suggestions for recipes, meal prep, or personal finance topics you'd like to see covered.
+[Click here](underwriteyourlife.com/feedback/) to leave me feedback! I would love to hear any thoughts/comments/snide remarks regarding this website. Feel free to give suggestions for recipes, meal prep, or personal finance topics you'd like to see covered.
