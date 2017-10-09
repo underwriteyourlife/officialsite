@@ -5,7 +5,7 @@ category: Recipe
 tags: Recipe
 excerpt: Sometimes I try to not be a sterotypical white American 20-something female. Other times I just embrace it.
 image:
-  teaser: /Meal Prep/Week 4/Pumpkin Rolls/Close-Up of Pumpkin Rolls RESIZED.jpg
+  teaser: /Meal Prep/Week 4/Pumpkin Rolls/Pumpkin Rolls Teaser.jpg
   feature: /Meal Prep/Week 4/Pumpkin Rolls/Close-Up of Pumpkin Rolls RESIZED.jpg
 ---
 
