@@ -1,12 +1,12 @@
 ---
-layout: archive
-permalink: /mealprep/
-title: "Posts by Category"
-author_profile: false
+ layout: archive
+ permalink: /mealprep/
+ title: "Meal Prep"
+ author_profile: false
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
+{% include group-by-array collection=site.categories.mealprep field="categories" %}
 
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
