@@ -4,7 +4,8 @@ title: Coconut Curry Lentils
 category: Recipe
 tags: Recipe
 excerpt: These coconut curry lentils are healthy, filling, and expecially delicious. The flexible recipe gives you the opportunity to add and subtract to suit your own personal tastes
-teaser: /image-alignment-300x200.jpg
+image:
+  teaser: /Meal Prep/Week 4/Coconut Lentils/Lentils Teaser.jpg
 ---
 
 # Coconut Curry Lentils
