@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Meal Prep"
+permalink: /mealprep/
 author_profile: false
 ---
 
