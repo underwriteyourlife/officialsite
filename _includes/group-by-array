@@ -23,7 +23,7 @@
   <!-- If not equal to previous then it must be unique as sorted -->
   {% unless name == previous %}
 
-    <!-- Push to group_names -->
+    
     {% assign group_names = group_names | push: name %}
   {% endunless %}
 
