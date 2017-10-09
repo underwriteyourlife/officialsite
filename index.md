@@ -3,10 +3,10 @@ layout: archive
 permalink: /
 title: "Latest Posts"
 ---
-<p> Hi </p>
+<p> Hies </p>
 <div class="tiles">
 <!-- {% for post in site.posts %} -->
-  {% for post in site.categories.mealprep %}
+  {% for post in site.posts.mealprep %}
 	  {% include post-grid.html %}
   {% endfor %}
 <!-- {% endfor %} -->
