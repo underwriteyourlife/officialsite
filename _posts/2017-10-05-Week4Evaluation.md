@@ -4,7 +4,7 @@ title: Week 4 Meal Prep Evaluation
 excerpt: A quick look at how Week 4's dishes lasted throughout the week
 category: Meal Prep
 tags: Meal Prep
-teaser: Meal Prep/Week 4/week-4-finished-product RESIZED.jpg
+teaser: image-alignment-300x200.jpg
 ---
 # Week 4 Meal Prep Evaluation
 
