@@ -4,7 +4,7 @@
  title: "Meal Prep"
  author_profile: false
 ---
-hi
-{% for post in site.categories.mealprep %}
+
+{% for post in site.category.mealprep %}
   <a href="{{ post.url}}">{{ post.title }}</a></li>
 {% endfor %}
