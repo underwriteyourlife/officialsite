@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Coconut Curry Lentils
-category: Recipe
-tags: Recipe
+title: Zucchini and Onion Fritters
+category: Recipe Failure
+tags: Recipe Failure
 excerpt: Sometimes combining everything you like and baking it isn't such a good idea
 image:
   teaser: /Failures/ZucchiniFritters/Unbaked Fritters 400x250.jpg
