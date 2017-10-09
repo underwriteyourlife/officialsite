@@ -6,7 +6,7 @@ title: "Latest Posts"
 
 <div class="tiles">
 {% for post in site.posts %}
-  {% for post in site.posts.mealprep %}
+  {% for post in site.categories.mealprep %}
 	  {% include post-grid.html %}
   {% endfor %}
 {% endfor %}
