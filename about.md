@@ -18,6 +18,6 @@ I truly believe that for the majority of people in the world, personal finances 
 
 Along the way, I plan on sharing some of my own tricks to saving money (like cooking cheap, delicious, meals) in order to help people take control of their financial futures.
 
-### Contact me ###
+### Feedback ###
 
-[underwriteyourlife@gmail.com](mailto:underwriteyourlife@gmail.com)
+[Click here](underwriteyourlife.com/feedback/) to leave me feedback! I would love to hear any thoughts, comments, suggestions, or snide remarks regarding this website. Feel free to give suggestions for recipes, meal prep, or personal finance topics you'd like to see covered.
