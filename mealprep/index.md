@@ -1,15 +1,17 @@
 ---
 layout: archive
-title: "Meal Prep"
-permalink: /mealprep/
+permalink: /categories/
+title: "Posts by Category"
 author_profile: false
 ---
 
 {% include base_path %}
+{% include group-by-array collection=site.posts field="categories" %}
 
-<div class="grid__wrapper">
-  {% for post in site.mealprep %}
-    {% include archive-single.html type="grid" %}
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
   {% endfor %}
-</div>
- 
+{% endfor %}
