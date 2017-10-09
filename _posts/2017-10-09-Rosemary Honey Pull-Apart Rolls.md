@@ -5,8 +5,8 @@ category: Recipe
 tags: Recipe
 excerpt: This was the first roll I ever baked, and I might be biased but it is still my favorite.
 image:
-  teaser: /Meal Prep/Week 4/Pumpkin Rolls/Pumpkin Rolls Teaser.jpg
-  feature: /Meal Prep/Week 4/Pumpkin Rolls/Close-Up of Pumpkin Rolls RESIZED.jpg
+  teaser: /Meal Prep/Week 5/RosemaryRolls/Rolls from Above Further Away 400x250.jpg
+  feature: /Meal Prep/Week 5/RosemaryRolls/Rolls from Above Further Away 400x250.jpg
 ---
 
 # Rosemary Honey Pull-Apart Rolls
@@ -15,8 +15,8 @@ While I love baking, these rolls are by far the most fun for me to bake. I am no
 
 <figure class="third">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Better Close up of Rolls.jpg">
-  <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Rolls from Above.jpg">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Rolls Side View Close Up.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Clsoe up of rolls 2.jpg">
 	<figcaption>Different views of the Rosemary Rolls </figcaption>
 </figure>
 
