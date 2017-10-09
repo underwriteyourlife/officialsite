@@ -1,6 +1,6 @@
 ---
  layout: archive
- permalink: /recipefailures/
+ permalink: /recipesforfailure/
  title: "Recipes for Failure"
  author_profile: false
 ---
