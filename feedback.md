@@ -1,6 +1,7 @@
 ---
 layout:default
 title: Feedback
+permalink: /feedback/
 ---
 
 # Feel free to fill out the form below to leave me some feedback! 
