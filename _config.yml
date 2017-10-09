@@ -3,7 +3,7 @@
 title: "Underwrite Your Life"
 description: "Finance for the Rest of Us"
 logo: #120x120 image used mainly for twitter cards if a large feature image isn't there. upload this to images folder then link here
-teaser: Meal Prep/Week 4/Coconut Lentils/Close Up of Lentils RESIZED.jpg # 400x250 px default teaser image used in image archive grid
+teaser: # Meal Prep/Week 4/Coconut Lentils/Close Up of Lentils RESIZED.jpg  400x250 px default teaser image used in image archive grid
 locale: en
 url: ##
 feed:
