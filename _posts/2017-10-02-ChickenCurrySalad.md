@@ -11,7 +11,7 @@ image:
 
 In all seriousness, this is not a salad but does manage to pack the flavor punch of a high-calorie meal without any of the negative side effects (except your breath will smell like onions afterwards, sorry). This meal comes in at only 247 calories per serving (377 if you include the "totally-not-wheat-thins" chips). 
 
-While I was on the fence about cooking chicken as part of a meal-prep week because I was afraid it would go bad, so far I have had no problems with the freshness of the chicken (click here to see the review of how they performed in meal prep Week 4!)
+While I was on the fence about cooking chicken as part of a meal-prep week because I was afraid it would go bad, so far I have had no problems with the freshness of the chicken ([click here](http://underwriteyourlife.com/meal%20prep/Week4Evaluation/) to see the review of how they performed in meal prep Week 4!)
 
 All-in-all, this meal was super easy and quick to cook and I have been looking forward to lunch every day because I get to munch down on this originally questionable meal choice. 
 
