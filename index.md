@@ -3,11 +3,13 @@ layout: archive
 permalink: /
 title: "Latest Posts"
 ---
-<p> Hi </p>
+<p> Hies </p>
 <div class="tiles">
 {% for post in site.posts %}
-  {% for mealprep in site.categories.mealprep %}
+	  {% include post-grid.html %}
+{% endfor %}
+  
+{% for mealprep in site.categories.mealprep %}
 	  {% include post-grid.html %}
   {% endfor %}
-{% endfor %}
 </div><!-- /.tiles -->
