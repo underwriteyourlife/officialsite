@@ -4,9 +4,12 @@
  title: "Meal Prep"
  author_profile: false
 ---
-hi
+
+{% include base_path %}
+{% include group-by-array collection=site.posts field="categories" %}
+
 {% for post in site.posts %}
   {% if post.category == "Meal Prep"%}
-    Cats
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
