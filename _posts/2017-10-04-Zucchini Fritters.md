@@ -49,6 +49,8 @@ After chopping, I poured a mixture of .25 cups of flour and 1 cup panko (Japanes
 
 Using one hand, I dunked the zucchini/onion individually into the egg mixture, then mixed it with the flour/breadcrumb mixture until coated. After each was coated, I placed it onto an oiled baking sheet then cooked them at 350 degrees Fahrenheit for 20 minutes. 
 
+<h3> Result </h3>
+
 Obviously, the result was less-than stellar. I thought the egg mixture would soak up the flour to make a nice breading, then baking it would make a nice crunchy snack that you would never know was also healthy! However, the flour simply sat on top of the zucchini, competing with the bread crumbs for space- making the end result a floury mess. It was truly horrendous and the whole thing had to go straight into the trash.
 
 It was especially upsetting because despite its state, the dish still smelled pretty good and I was so hungry. If I could do it over (which I may, if I happen to end up with another zucchini lying around sometime soon), I would skip on the flour and just use extra Panko breadcrumbs. Feel free to give this a try and leave me some [feedback](http://underwriteyourlife.com/feedback/) about how it goes!
