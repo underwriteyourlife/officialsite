@@ -4,8 +4,9 @@
  title: "Meal Prep"
  author_profile: false
 ---
-
-{% for post in site.categories.mealprep %}
-    # render the photo post html
+hi
+{% for post in site.posts %}
+  {% if post.category == "mealprep"%}
+    {% comment %} List posts... {% endcomment %}
+  {% endif %}
 {% endfor %}
-
