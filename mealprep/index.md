@@ -4,9 +4,9 @@
  title: "Meal Prep"
  author_profile: false
 ---
-hi
+
 {% for post in site.posts %}
-  {% if post.category == "mealprep"%}
+  {% if post.category == "Meal Prep"%}
     {% comment %} List posts... {% endcomment %}
   {% endif %}
 {% endfor %}
