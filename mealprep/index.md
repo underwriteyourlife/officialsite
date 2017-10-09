@@ -10,6 +10,6 @@
 
 {% for post in site.posts %}
   {% if post.category == "Meal Prep"%}
-    {% include post-grid.html %}
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
