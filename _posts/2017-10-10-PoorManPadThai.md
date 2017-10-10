@@ -3,7 +3,7 @@ layout: default
 title: Poor Man's Pad Thai
 category: Recipe
 tags: Recipe
-excerpt: Disclaimer: This doesn't taste exactly like real Pad Thai. But I think you'll love it anyways!
+excerpt: Disclaimer- This doesn't taste exactly like real Pad Thai. But I think you'll love it anyways!
 image:
   teaser: /Meal Prep/Week 5/PadThai/Close Up Better 400x250.jpg
 ---
