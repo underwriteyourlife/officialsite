@@ -11,8 +11,8 @@ image:
 # Seasoned Roasted Russet Potatoes
 
 <figure class="half">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Roasted Potatoes (closer better).jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Webp.net-resizeimage (24).jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Webp.net-resizeimage (25).jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Webp.net-resizeimage (26).jpg">
 	<figcaption> Delicious and Cheap Seasoned Roasted Russet Potatoes </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Go ahead and pop the potatoes into the preheated oven for about 40 minutes, or u
 
 <figure class="half">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Roasted Potatoes in Oven.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Webp.net-resizeimage (24).jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Webp.net-resizeimage (26).jpg">
 	<figcaption> The Russet Potatoes while in the oven and the finished product! </figcaption>
 </figure>
 
