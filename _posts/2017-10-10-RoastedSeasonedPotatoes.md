@@ -8,11 +8,11 @@ image:
   teaser: /Meal Prep/Week 5/RoastedPotatoes/Teaser.jpg
 ---
 
-# Poor Man's Pad Thai
+# Seasoned Roasted Russet Potatoes
 
 <figure class="half">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Roasted Potatoes (closer better).jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Roasted Potatoes (Further).jpg>
+	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Roasted Potatoes (Further).jpg">
 	<figcaption> Delicious and Cheap Seasoned Roasted Russet Potatoes </figcaption>
 </figure>
 
