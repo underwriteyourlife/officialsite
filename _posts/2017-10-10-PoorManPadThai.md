@@ -103,7 +103,7 @@ Lastly, I added 1/4 cup of salted peanuts into a ziplock bag and used a rolling 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Unhammered Peanuts.jpg">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Hammered Peanuts.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Roasting Peanuts.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Roasting Peanuts Rotates.jpg">
 	<figcaption> Uncrushed peanuts, peanuts after crushing, and roasted peanuts </figcaption>
 </figure>
 
