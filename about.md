@@ -8,7 +8,7 @@ Welcome to Underwrite Your Life!
 
 ### More Information ###
 
-My name is Emily, and I am probably not qualified to teach you anything about cooking, or meal prep, or life in general. However, after graduating college and settling my broke butt into a high-cost of living area, I knew I needed to make a few lifestyle changes.
+My name is Emily, and I am probably not qualified to teach you anything about cooking, meal prep, or life in general. However, after graduating college and settling my broke butt into a high-cost of living area, I knew I needed to make a few lifestyle changes.
 
 One of the largest changes for me has been learning to meal prep! Meal Prepping is essentially pre-preparing your meals for the week in order to cut down on the time you spend cooking as well as reduce your food costs. After some friends expressed an interest in how I was cooking my meals, I decided to make this website as a sort of archive of my meal prep successes and failures. 
 
