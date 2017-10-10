@@ -17,7 +17,7 @@ image:
 	<figcaption> Poor Man's Pad Thai </figcaption>
 </figure>
 
-Since this week was a lazy week for me, I decided to whip up a few servings of Pad Thai for my [week 5 meal prep](http://underwriteyourlife.com/Week5/). I had all the ingredients left over from [Week 2's meal prep](http://underwriteyourlife.com/Week2/) so this was a great low-cost way to make dinner. Most people probably don't have some of these ingredients just lying around their kitchen, so it may be a higher up-front cost, however, once you invest in buying these staples they will last you a while and ensure that you can make Pad Thai whenever the desire hits you! 
+Since this week was a lazy week for me, I decided to whip up a few servings of Pad Thai for my [week 5 meal prep](http://underwriteyourlife.com/meal%20prep/Week5/). I had all the ingredients left over from [Week 2's meal prep](http://underwriteyourlife.com/meal%20prep/Week2/) so this was a great low-cost way to make dinner. Most people probably don't have some of these ingredients just lying around their kitchen, so it may be a higher up-front cost, however, once you invest in buying these staples they will last you a while and ensure that you can make Pad Thai whenever the desire hits you! 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Ingredients.jpg">
