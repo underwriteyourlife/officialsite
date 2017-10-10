@@ -17,7 +17,7 @@ image:
 	<figcaption> Poor Man's Pad Thai </figcaption>
 </figure>
 
-Since this week was a lazy week for me, I decided to whip up a few servings of pad thai for my meal prep. I had all the ingredients left over from [Week 2's meal prep](http://underwriteyourlife.com/week2/) so this was a great low-cost way to make dinner. Most people probably don't have some of these ingredients just lying around their kitchen, so it may be a higher up-front cost, however, once you invest in buying these staples they will last you a while and ensure that you can make Pad Thai whenever the desire hits you! 
+Since this week was a lazy week for me, I decided to whip up a few servings of Pad Thai for my [week 5 meal prep](http://underwriteyourlife.com/Week5/). I had all the ingredients left over from [Week 2's meal prep](http://underwriteyourlife.com/Week2/) so this was a great low-cost way to make dinner. Most people probably don't have some of these ingredients just lying around their kitchen, so it may be a higher up-front cost, however, once you invest in buying these staples they will last you a while and ensure that you can make Pad Thai whenever the desire hits you! 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Ingredients.jpg">
@@ -46,26 +46,25 @@ Total	|	---		|	 $7.69 	|	2554
 Total/ Serving	|	---		|	 $1.54 	|	510.7
 
 
-In total, that is $7.55 US dollars worth of ingredients and 2554 calories. For me this made 5 servings of Pad Thai, so in total it was about $1.5 dollars per serving with each serving being 511 calories. 
+In total, that is $7.55 US dollars worth of ingredients and 2554 calories. For me this made 5 servings of Pad Thai- about $1.5 dollars and 511 calories per serving. 
 
 <h2> Step 1 </h2>
 
-Firstly, I got a big pot of water boiling in which I could soak my rice noodles. Since we are going to 'stir-fry' them later, I bring the pot to a boil, turn off the heat, add the noodles, and just let them soak for about 5-6 minutes. Once they are finished soaking, I drain them and let them cool (we are going to use this pot later!). 
+Firstly, I got a big pot of water boiling in which I could soak my rice noodles. Since we are going to 'stir-fry' them later, I brought the water to a boil, turned off the heat, added the noodles, and just let them soak for about 5-6 minutes. Once they were finished soaking, I drained them and let them cool (no need to wash the pot yet- we are going to use it later!) 
 
-While the noodles are soaking, I chopped my onions, carrots, and green onions. 
+While the noodles were soaking, I chopped my onions, carrots, and green onions. 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Soaking Noodles.jpg">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Chopped Ingredients Rotated.jpg">
-	<figcaption> Noodles while soaking and chopped ingredients </figcaption>
+	<figcaption> Noodles soaking in pot - chopped ingredients </figcaption>
 </figure>
 
 <h2> Step 2 </h2>
 
-Next, I added my olive oil and garlic to a large pan to sautee. After about a minute, when the pan was fully heated, I added the onion and carrots and let the whole dish sautee over medium-high heat for 5 minutes. 
+Next, I added my olive oil and garlic to a large pan to sauté. After about a minute, when the pan was fully heated, I added the onion and carrots and let the whole dish sauté over medium-high heat for 5 minutes. 
 
-After the carrots and onion are cooked, I cracked 1 fresh egg into the pan, turned off the burner, and let the residual heat slowly cook the egg. 
-
+After the carrots and onion were cooked, I cracked 1 fresh egg into the pan, turned off the burner, and let the residual heat slowly cook the egg. 
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Garlic Oil.jpg">
@@ -76,15 +75,19 @@ After the carrots and onion are cooked, I cracked 1 fresh egg into the pan, turn
 
 <h2> Step 3 </h2>
 
-Once the egg is no longer runny, I used the same large pot in which I soaked the noodles to make the sauce. Firstly, I put .5 cups of water and 1 vegetable cube into the pot. If you do not have bouillon cubes, you can use .5-1 cups of vegetable/chicken broth. Once the cube is dissolved (or broth heated), I add the other ingredients for the sauce. 
-
-This means adding 2 tbsp honey, 3 tsp fish sauce, 3 tbsp peanut butter, 2 tbsp rice vinegar, 4 tbsp soy sauce, and the juice of 1 lime into the bot. Let this pot come to a slow simmer before moving on. 
+Once the egg was no longer runny, I used the same large pot in which I soaked the noodles to make the sauce. Firstly, I put .5 cups of water and 1 vegetable bouillon cube into the pot. If you do not have bouillon cubes, you can use .5-1 cups of vegetable/chicken broth. Once the cube is dissolved (or broth heated), move on to the next step.
 
 <h2> Step 4 </h2>
 
-Once the peanut butter is melted and the whole broth is simmering, feel free to give it a taste and adjust to your personal prefrences. I tend to add more rice vinegar, but it is completely up to you! Next, add the onion/carrot/egg sauteed mixture into the sauce and cook for 1 minute.
+Collect your remaining ingredients and prepare to add them, one at a time, to the bouillon broth. This means adding 2 tbsp honey, 3 tsp fish sauce, 3 tbsp peanut butter, 2 tbsp rice vinegar, 4 tbsp soy sauce, and the juice of 1 lime into the pot. Let this mixture come to a slow simmer before moving on. 
 
-Once that is fully incorporated, add the cooked rice noodles along with a little bit of olive oil and 1 tbsp soy sauce to the sauce and stir until all the rice noodles are coated. 
+<h2> Step 5 </h2>
+
+Once the peanut butter is melted and the whole broth is simmering, feel free to give it a taste and adjust to your personal preferences. I tend to add more rice vinegar, but it is completely up to you! If the smell of fish sauce does not turn you off too much, adding more fish sauce will give the Pad Thai a more authentic taste.  
+
+Next, add the onion/carrot/egg sautéed mixture into the sauce and cook for 1 minute.
+
+Once that is fully incorporated, add the cooked rice noodles along with a little bit of olive oil and 1 tbsp soy sauce to the pot and stir until the rice noodles are coated. 
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/First Half Sauce.jpg">
@@ -93,9 +96,9 @@ Once that is fully incorporated, add the cooked rice noodles along with a little
 	<figcaption> Finished sauce, after adding onions/carrots/egg, and after adding noodles </figcaption>
 </figure>
 
-<h2> Step 5 </h2>
+<h2> Step 6 </h2>
 
-Lastly, I add 1/4 cup of salted peanuts into a ziplock bag and use a rolling pin to crush them. I then take the crushed peanuts, roast them over high heat for about 30 seconds- 1 minute, and use them as garnish for the top of the Pad Thai. In my opinion, they provide a nice crunch!
+Lastly, I added 1/4 cup of salted peanuts into a ziplock bag and used a rolling pin to crush them. I then took the crushed peanuts, roasted them over high heat for about 30 seconds to 1 minute, then used them as garnish for the top of the Pad Thai. In my opinion, roasted peanuts not only smell amazing but provide a really nice crunch to the dish! This is especially important because as the week progresses and the flavors begin to mix, the peanuts will diversify the texture of your meal. 
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Unhammered Peanuts.jpg">
@@ -104,6 +107,8 @@ Lastly, I add 1/4 cup of salted peanuts into a ziplock bag and use a rolling pin
 	<figcaption> Uncrushed peanuts, peanuts after crushing, and roasted peanuts </figcaption>
 </figure>
 
-Then you are all done! Serve the pad thai in seprate dishes, top with the peanuts/cilantro/green onion/ lime wedge as you see fit. 
+Then you are all done! Serve the Pad Thai in separate dishes, topped with peanuts/cilantro/green onion/lime wedge as you see fit.
+
+For my week 5 meal prep, I made this dish with a side of [roasted thyme potatoes](http://underwriteyourlife.com/roastedthymepotatoes/). If you are interested, [click here](http://underwriteyourlife.com/Week5Evaluation/) to see how this meal held up over the course of the week! 
 
 <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Close Up Better.jpg">
