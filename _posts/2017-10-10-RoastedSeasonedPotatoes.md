@@ -55,8 +55,8 @@ Once you have the pan nice and oiled, add your potatoes and your seasonings as t
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Weighed.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Unbaked Unmixed.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Unbaked.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Unbaked Unmixed FLIPPED.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Unbaked FLIPPED.jpg">
 	<figcaption> The Russet Potatoes weighed out, covered in seasoning, and fully mixed with seasonings </figcaption>
 </figure>
 
