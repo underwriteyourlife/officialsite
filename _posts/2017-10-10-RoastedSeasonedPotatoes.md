@@ -31,7 +31,7 @@ Paprika	|	2	tsp	|	 $0.06 	|	0
 Total	|	---		|	 $3.64 	|	931
 Total /Serving	|	---		|	 $0.73 	|	186.2
 
-Since I served these along side a meal, this made 5 servings of just over 100 grams each. 
+Since I served these along side a meal, this made 5 servings of just over 100 grams each. I made them in coordination with [week 5 meal prep](http://underwriteyourlife.com/meal%20prep/Week5/). 
 
 <h2> Step 1 </h2>
 
