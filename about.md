@@ -14,7 +14,7 @@ One of the largest changes for me has been learning to meal prep! Meal Prepping 
 
 My food budget is $50 US dollars per week, so I try to keep my meals as cheap as possible! As a rule of thumb, my meal prep meals will cost anywhere between $1-$3 dollars per meal. My meal prepped foods usually account for about $30-$40 dollars of that budget and around 1200-1500 calories per day. The rest of the $10-$20 dollars (and calories!) I usually spend on pre-packaged snacks, desserts, and wine. 
 
-Thanks for taking the time to check out my website! I love hearing feeback and suggestions, so click the link below to send me your thoughts/comments/snide remarks about how I am doing so far. If I get a lot of the same questions, I will try to respond with a post. 
+Thanks for taking the time to check out my website! I love hearing feedback and suggestions, so click the link below to send me your thoughts/comments/snide remarks about how I am doing so far. If I get a lot of the same questions, I will try to respond with a post. 
 
 <!--My name is Emily, and I am *NOT* a personal financial advisor. In fact, I'm not even a personal financial planner, CPA, or any other three letter acronym that could somehow qualify me to create a blog based on personal finance. My very loose qualifications are that I have an undergraduate degree in finance and a passion for personal financial planning. 
 The more I studied finance the more I discovered that the entire financial industry seemed to be built on the premise of convincing people (especially women) that finance is too <em> hard</em> for them to tackle alone, thus you must pay someone to handle it on your behalf. 
