@@ -18,7 +18,7 @@ image:
 
 I debated with myself about whether or not I wanted to post this recipe. Its relatively simple, and my gut says that most people know how to roast some potatoes... right? Either way, after being told the millionth time how delicious these smelled coming out of the oven I decided to share the not-so-secret secret recipe. 
 
-I did not include photos of the ingredients for this recipe because it should really be changed to suit your individual tastes. But in case anyone was wondering, I posted my ingredients and costs below:
+I decided not to include photos of the ingredients for this recipe because it should really be changed to suit your individual tastes. The ingredients I used and their relative costs are below:
 
 **Ingredient** | **Amount** | **Cost** |   **Calories**
 |:------------- |:-------------:| :-----:|   -----:|
@@ -31,11 +31,11 @@ Paprika	|	2	tsp	|	 $0.06 	|	0
 Total	|	---		|	 $3.64 	|	931
 Total /Serving	|	---		|	 $0.73 	|	186.2
 
-Since I served these along side a meal, this made 5 servings of just over 100 grams each. I made them in coordination with [week 5 meal prep](http://underwriteyourlife.com/meal%20prep/Week5/). 
+Since I served these alongside [week 5 meal prep](http://underwriteyourlife.com/meal%20prep/Week5/), this made 5 servings of just over 100 grams each. If you are looking for this to be a more substantial meal all on its own, then I suggest increase the number of potatoes. 
 
 <h2> Step 1 </h2>
 
-If you aren't a fan of skin-on potatoes, the first step for you will be to peel your Russet potatoes. Normally I don't mind the skin, however, my potatoes were a little bit old and I don't own a potato scrubber so I went ahead and used my paring knife to peel the skins off. 
+If you aren't a fan of skin-on potatoes, the first step for you will be to peel your Russet potatoes. Normally I don't mind the skin, however, my potatoes were a little bit old and since I don't own a potato scrubber I went ahead and used my paring knife to peel the skins off. 
 
 Once they are peeled (if you opted for that route), you will need to chop them into bite-sized squares like below. 
 
@@ -51,7 +51,7 @@ Next, go ahead and preheat your oven to around 400 degrees Fahrenheit. While the
 
 At this point, I like to weigh out my potatoes so I can get a more accurate calorie count. Russet potatoes are about 97 calories per 100 grams, so for my 704 grams of potato I am looking at ~690 calories. If you aren't a cooking nut like me, you probably don't own a kitchen scale. Not to worry! I usually estimate that one russet potato is around 170 calories. 
 
-Once you have the pan nice and oiled, add your potatoes and your seasonings as toppings. I just go straight in with my hand and mix around the potatoes so that they are evenly coated in the oil and seasonings. I opted for garlic salt, pepper, thyme, and paprika as my seasoning mix!
+Once you have the pan nice and oiled, add the potatoes and seasonings to top. I usually just go straight in with my hand and mix so that the potatoes are evenly coated in the oil and seasonings. I opted for garlic salt, pepper, thyme, and paprika.
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Weighed.jpg">
@@ -62,7 +62,7 @@ Once you have the pan nice and oiled, add your potatoes and your seasonings as t
 
 <h2> Step 3 </h2>
 
-Go ahead and pop the potatoes into the preheated oven for about 40 minutes, or until the kitchen smells super good and you can poke the potato with a fork and it feels completely soft. I usually underbake mine because I know that I am going to add it in with a meal prep dish that will be re-heated later, however, that is completely up to you!
+Go ahead and pop the potatoes into the preheated oven for about 40 minutes, or until the kitchen smells super good and you can poke the potato with a fork and it feels completely soft. I usually under-bake mine because I know that I am going to add it in with a meal prep dish that will be re-heated later, however, that is completely up to you!
 
 <figure class="half">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/RoastedPotatoes/Roasted Potatoes in Oven.jpg">
