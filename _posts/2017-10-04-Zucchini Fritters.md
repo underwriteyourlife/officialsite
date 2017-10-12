@@ -29,7 +29,7 @@ Cilantro |	3	leaf	| $0.30 |	0
 Total | --- | $3.31 | 553
 Total/Serving | --- | $.66  | 110
 
-In total, that is $3.20 dollars worth of ingredients and 481 calories that creates 5 inedible servings of zucchini and onion fritters. Per serving, it would be .64 cents and 96 calories. 
+In total, that is $3.20 dollars worth of ingredients and 481 calories that creates 5 inedible servings of zucchini and onion fritters. Per serving, it would be .64 cents and 96 calories... if you could stomach it. 
 
 <h2> Step 1 </h2>
 
