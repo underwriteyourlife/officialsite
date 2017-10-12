@@ -11,7 +11,7 @@ image:
 
 So here we are, lets take a look at how our dishes held up throughout Week 4. If you haven't already, [take a look at the menu](http://underwriteyourlife.com/meal%20prep/Week4/) for Week 4 before reading on. 
 
-# Chicken Curry Salad:
+# [Chicken Curry Salad](http://underwriteyourlife.com/recipe/ChickenCurrySalad/):
 
 This was by far the best prepped meal I have made to date. I was a little afraid that the chicken was going to go bad by the end of the week, but in actuality, as the curry sat longer, the chicken marinated in the sauce and became more delicious! I purchased and cooked the chicken breasts on a Saturday afternoon, and it lasted until the following Friday at lunchtime with no problems and without going sour. 
 
@@ -24,7 +24,7 @@ This was by far the best prepped meal I have made to date. I was a little afraid
 
 The only caveat is that on Friday, the chips started to feel a little stiffer and more stale than the previous days. It was still completely edible, however, they were just not as fresh as Monday. Regardless, I am impressed that they lasted so long in the first place. They did not get soft or wet from being in the refrigerator along with the chicken curry salad. 
 
-# Coconut Curry Lentils:
+# [Coconut Curry Lentils](http://underwriteyourlife.com/recipe/CoconutCurryLentils/):
 
 So there is a clear visual difference between the curried lentils between when they were cooked and friday night. I know some of you skeptics out there won't believe me, but they actually got better with time as well! Or maybe I just like slightly old food? TBD. Either way, the lentils held up nicely. It is worth mentioning that I don't own a microwave (I know, I know), so I reheat my meals on the stovetop. Take a look at how these turned out: 
 
@@ -35,7 +35,7 @@ So there is a clear visual difference between the curried lentils between when t
 	<figcaption>The coconut curried lentils on Monday, during cooking, and Friday.</figcaption>
 </figure>
 
-# Pumpkin-Spiced Bread Rolls:
+# [Pumpkin-Spiced Bread Rolls](http://underwriteyourlife.com/recipe/PumpkinRolls/):
 
 Unfourtunately, I don't have any photos for y'all on this one- the rolls looked relatively similar throughout the week. However, I've incuded a couple photos below just in case you want a reminder about how delicious they look! The rolls were definitely much much better fresh out of the oven (as with all baked goods). I did my typical thing of bagging my serving sizes (4 rolls each) and putting the ziplock bags into the refrigerator to prevent molding and keep them good for the week. Unfourtunately, unlike with my Challah last week, these rolls got pretty stiff and crumbly after the first day or two. 
 
