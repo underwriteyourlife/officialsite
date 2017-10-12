@@ -11,7 +11,7 @@ image:
 
 # Rosemary Honey Pull-Apart Rolls
 
-While I love baking, these rolls are by far the most fun for me to bake. I am not sure if its chopping the rosemary or just playing with the delicious-smelling dough, but baking and eating these always puts a smile on my face. In addition, if you take the time to rise the dough once you've shaped the rolls, you can make them "pull-apart" rolls and impress both your roomates and yourself!
+While I love baking, these rolls are by far the most fun for me to bake. I am not sure if its chopping the rosemary or just playing with the delicious-smelling dough, but baking and eating these always puts a smile on my face. In addition, if you take the time to rise the dough once you've shaped the rolls, you can make them "pull-apart" rolls and impress both your roommates and yourself!
 
 <figure class="third">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Better Close up of Rolls.jpg">
@@ -20,7 +20,7 @@ While I love baking, these rolls are by far the most fun for me to bake. I am no
 	<figcaption>Different views of the Rosemary Rolls </figcaption>
 </figure>
 
-Here are the ingredients you'll need to make the savory rolls. All together it made 28 rolls, or 7 servings of 4 rolls each. For this week's (Week 5) meal prep, I actually only needed 5 servings, but I will never complain about having too many rolls. 
+Here are the ingredients you'll need to make the savory rolls. All together it made 28 rolls, or 7 servings of 4 rolls each. For this week's [(Week 5) meal prep](http://underwriteyourlife.com/meal%20prep/Week5/), I actually only needed 5 servings, but I will never complain about having too many rolls. 
 
 <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Ingredients 50percent.jpg">
 
@@ -43,7 +43,7 @@ In total, that is $2.07 dollars of ingredients and 2333 calories- meaning each r
 
 <h2> Step 1 </h2>
 
-As with any yeast-based bread, you need to be very careful in step 1. This is the most important step to making sure that your rolls rise, and if you mess up here there's no turning back! 
+As with any yeast-based bread, you need to be very careful in step 1. This is the most crucial step to making sure that your rolls rise, and if you mess up here there's no turning back! 
 
 Now that I've scared you, go ahead and take .5 cups of WARM water and combine it with your packet of active dry yeast. It is important that the water is mildly warm enough to activate the yeast without being too hot as to kill the yeast. For me, this usually means running the faucet until it feels warm to the touch but does not burn. 
 
@@ -95,7 +95,7 @@ Once the dough is kneaded, let the dough sit in a clean, oiled, bowl for about a
 
 <h2> Step 6 </h2>
 
-Once the dough has risen, rip off sections of the dough and roll between your palms. Once it is spherical, you can pinch the bottoms of the ball in order to fine-tue the shape of the roll. Place the balls close together on an oiled pan and let rise again for about 30 minutes. You can choose to not let the dough rise a second time, but letting it rise will allow the rolls to be fluffier and connect together in order to make them pull-apart rolls.
+Once the dough has risen, rip off sections of the dough and roll between your palms. Once it is spherical, you can pinch the bottoms of the ball in order to fine-tune the shape of the roll. Place the balls close together on an oiled pan and let rise again for about 30 minutes. You can choose to not let the dough rise a second time, but letting it rise will allow the rolls to be fluffier and connect in order to make them pull-apart rolls.
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Unbaked Unrisen Rolls (same angle as other).jpg">
@@ -107,7 +107,7 @@ Once the dough has risen, rip off sections of the dough and roll between your pa
 
 If you are like me, at this point you can choose to sprinkle a little more sea-salt on top of the rolls to give them an extra something. But its up to you! 
 
-Once you're read, pop them into a preheated oven at about 350 degrees Fahrenheit for 20 minutes. They should be golden-brown and firm, but not burnt. If you are unsure if it is fully cooked through, you can poke the largest one with a toothpick. If it comes out clean, the roll is ready. Alternatively, my favorite method is to lightly tap the tops of the rolls with my finger. If there is a hollow sound, that means they are cooked through. 
+Once you're ready, pop them into a preheated oven at about 350 degrees Fahrenheit for 20 minutes. They should be golden-brown and firm, but not burnt. If you are unsure if it is fully cooked through, you can poke the largest one with a toothpick. If it comes out clean, the roll is ready. Alternatively, my favorite method is to lightly tap the tops of the rolls with my finger. If there is a hollow sound, that means they are cooked through. 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Rolls in Oven.jpg">
@@ -115,6 +115,6 @@ Once you're read, pop them into a preheated oven at about 350 degrees Fahrenheit
 	<figcaption>Final Rolls </figcaption>
 </figure>
 
-These rolls hold a special place in my heart. I don't know if they are as good to other people are they are to me, but please give them a try and let me know!
+These rolls hold a special place in my heart. I don't know if they are as good to other people are they are to me, but please give them a try and [let me know](http://underwriteyourlife.com/feedback/)!
 
 
