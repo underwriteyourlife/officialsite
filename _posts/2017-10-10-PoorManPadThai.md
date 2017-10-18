@@ -109,6 +109,6 @@ Lastly, I added 1/4 cup of salted peanuts into a ziplock bag and used a rolling 
 
 Then you are all done! Serve the Pad Thai in separate dishes, topped with peanuts/cilantro/green onion/lime wedge as you see fit.
 
-For my week 5 meal prep, I made this dish with a side of [roasted thyme potatoes](http://underwriteyourlife.com/recipe/RoastedSeasonedPotatoes/). If you are interested, [click here](http://underwriteyourlife.com/comingsoon/) to see how this meal held up over the course of the week! 
+For my week 5 meal prep, I made this dish with a side of [roasted thyme potatoes](http://underwriteyourlife.com/recipe/RoastedSeasonedPotatoes/). If you are interested, [click here](http://underwriteyourlife.com/meal%20prep/Week5Evaluation/) to see how this meal held up over the course of the week! 
 
 <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Close Up Better.jpg">
