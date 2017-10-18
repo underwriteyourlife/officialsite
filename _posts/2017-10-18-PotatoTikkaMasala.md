@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Potato Tikka Masala
-category: Recipe
-tags: Recipe
+category: recipefailure
+tags: recipefailure
 excerpt: TLDR- It's going to take more than just following a recipe for me to learn how to cook Indian food
 image:
   teaser: /Meal Prep/Week6/Potato Tikka Masala/Final Product 400x250.jpg
