@@ -21,7 +21,7 @@ Otherwise, it was still a nice and stable dish to make for a meal prep! No wonde
 
 <figure class="half">
 	<img src="{{ site.url }}/images/Meal Prep/Week 5/Evaluation/Friday Chicken Curry (final).jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/Evaluation/Tuesday Chicken Curry (final).jpg
+	<img src="{{ site.url }}/images/Meal Prep/Week 5/Evaluation/Tuesday Chicken Curry (final).jpg">
 	<figcaption>The chicken curry salad on Tuesday and Friday</figcaption>
 </figure>
 
