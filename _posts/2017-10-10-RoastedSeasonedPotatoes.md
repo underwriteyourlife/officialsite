@@ -72,4 +72,4 @@ Go ahead and pop the potatoes into the preheated oven for about 40 minutes, or u
 
 Then you are all done! These make an excellent side-dish to be eaten fresh or as part of a meal-prep. 
 
-For my week 5 meal prep, I made this dish as a side to [Poor Man's Pad Thai](http://underwriteyourlife.com/recipe/PoorManPadThai/). If you are interested, [click here](http://underwriteyourlife.com/comingsoon/) to see how this dish held up over the course of the week! 
+For my week 5 meal prep, I made this dish as a side to [Poor Man's Pad Thai](http://underwriteyourlife.com/recipe/PoorManPadThai/). If you are interested, [click here](http://underwriteyourlife.com/meal%20prep/Week5Evaluation/) to see how this dish held up over the course of the week! 
