@@ -12,7 +12,7 @@ image:
 
 Ready to get stewin'? Lord knows I wasn't when I started this dish. These coconut curry lentils will be worth the extra cooking time, however, as they are packed with flavor and hold up really well over the course of a week ([click here](http://underwriteyourlife.com/meal%20prep/Week4Evaluation/) to see the review of how they performed in meal prep Week 4!)
 
-If you are like me (AKA: inefficient and poor), and thus don't own a slow cooker, you can cook these on the stovetop. However, if you have a slow cooker, just add all the ingredients (except the rice and cilantro- you'll have to cook that separately) and set to cook at high for 4-5 hours. 
+The original recipe is on [Budget Bytes](https://www.budgetbytes.com/2016/07/slow-cooker-coconut-curry-lentils/) and requires a slow cooker. However, if you are like me (AKA: inefficient and poor) and thus don't own a slow cooker, you can cook these on the stovetop. However, if you have a slow cooker, just add all the ingredients (except the rice and cilantro- you'll have to cook that separately) and set to cook at high for 4-5 hours. 
 
 Here are the ingredients you'll need to cook this dish! All together it made 6.5 servings of 1.5 cups each (or just under 10 cups total), with each serving costing $1.87 and putting you back 656 calories. 
 
