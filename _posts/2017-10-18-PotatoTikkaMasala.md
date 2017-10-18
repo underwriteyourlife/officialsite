@@ -10,7 +10,7 @@ image:
 
 # Potato Tikka Masala
 
-<img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/final product.jpg"
+<img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/final product.jpg">
 
 This is a story. So last Friday, over my lunch break while chowing down on some [chicken curry salad](http://underwriteyourlife.com/recipe/ChickenCurrySalad/) I came across [this recipe](http://allrecipes.com/recipe/239867/chef-johns-chicken-tikka-masala/) by Chef John. It looked delicious and different than the curries I have made in the past, so I decided I would give it a shot this week for my meal prep dinner. 
 
