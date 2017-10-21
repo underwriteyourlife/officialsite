@@ -29,7 +29,30 @@ All-in-all, while I am categorizing this as a ["recipe failure"](http://underwri
 **Ingredient** | **Amount** | **Cost** |   **Calories**
 |:------------- |:-------------:| :-----:|   -----:|
 Rice Noodles	|	14	oz	|	 $2.69 	|	1470
-TO BE ADDED
+Potato	6	potato	 $4.80 	1100
+Olive Oil	1	tbsp	 $0.10 	120
+Salt	2	tsp	 $0.02 	0
+Garam Masala	2	tsp	 $0.40 	0
+Cumin	2	tsp	 $0.21 	0
+Coriander	1	tsp	 $0.20 	0
+Paprika	1	tsp	 $0.03 	0
+Tumeric	1	tsp	 $0.20 	0
+Pepper	1	tsp	 $0.03 	0
+Cayenne Pepper	0.25	tsp	 $0.03 	0
+Cardamom	0.125	tsp	 $0.03 	0
+Margarine	2	tbsp	 $0.06 	200
+Onion	2	onion	 $2.00 	88
+Tomato Paste	1	tbsp	 $0.08 	15
+Fresh Garlic	4	clove	 $0.14 	0
+Fresh Ginger	0.5	inch	 $0.10 	0
+Tomato	5	tomato	 $1.45 	175
+Full Fat Coconut Milk	1.5	cup	 $1.49 	660
+Chicken Broth	0.5	cup	 $0.31 	8
+Cilantro	3	leaf	 $0.30 	0
+White Rice	2.5	cup	 $1.80 	1500
+Carrots	3	carrot	 $0.33 	30
+Total 14.11 3895.5
+Total/meal 282 779.1
 
 
 <h2> Step 1 </h2>
