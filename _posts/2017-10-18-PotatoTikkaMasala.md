@@ -28,94 +28,125 @@ All-in-all, while I am categorizing this as a ["recipe failure"](http://underwri
 
 **Ingredient** | **Amount** | **Cost** |   **Calories**
 |:------------- |:-------------:| :-----:|   -----:|
-Rice Noodles	|	14	oz	|	 $2.69 	|	1470
-Potato	6	potato	 $4.80 	1100
-Olive Oil	1	tbsp	 $0.10 	120
-Salt	2	tsp	 $0.02 	0
-Garam Masala	2	tsp	 $0.40 	0
-Cumin	2	tsp	 $0.21 	0
-Coriander	1	tsp	 $0.20 	0
-Paprika	1	tsp	 $0.03 	0
-Tumeric	1	tsp	 $0.20 	0
-Pepper	1	tsp	 $0.03 	0
-Cayenne Pepper	0.25	tsp	 $0.03 	0
-Cardamom	0.125	tsp	 $0.03 	0
-Margarine	2	tbsp	 $0.06 	200
-Onion	2	onion	 $2.00 	88
-Tomato Paste	1	tbsp	 $0.08 	15
-Fresh Garlic	4	clove	 $0.14 	0
-Fresh Ginger	0.5	inch	 $0.10 	0
-Tomato	5	tomato	 $1.45 	175
-Full Fat Coconut Milk	1.5	cup	 $1.49 	660
-Chicken Broth	0.5	cup	 $0.31 	8
-Cilantro	3	leaf	 $0.30 	0
-White Rice	2.5	cup	 $1.80 	1500
-Carrots	3	carrot	 $0.33 	30
-Total 14.11 3895.5
-Total/meal 282 779.1
+Potato|	6	potato|	 $4.80 |	1100
+Olive Oil	|1	tbsp	| $0.10 |	120
+Salt	|2	tsp	 |$0.02 	|0
+Garam Masala|	2	tsp	 |$0.40 |	0
+Cumin	|2	tsp	 $0.21 |	0
+Coriander	|1	tsp	| $0.20 |	0
+Paprika	|1	tsp	| $0.03 |	0
+Tumeric	|1	tsp	| $0.20 |	0
+Pepper	|1	tsp	| $0.03 |	0
+Cayenne Pepper|	0.25	tsp	| $0.03 |	0
+Cardamom	|0.125	tsp	| $0.03 |	0
+Margarine	|2	tbsp	| $0.06 |	200
+Onion	|2	onion	| $2.00 |	88
+Tomato Paste|	1	tbsp	| $0.08 |	15
+Fresh Garlic|	4	clove	| $0.14 |	0
+Fresh Ginger|	0.5	inch	| $0.10 |	0
+Tomato|	5	tomato	| $1.45 |	175
+Full Fat Coconut Milk|	1.5	cup	| $1.49 |	660
+Chicken Broth	|0.5	cup	| $0.31 |	8
+Cilantro|	3	leaf	| $0.30 |	0
+White Rice|	2.5	cup	| $1.80 |	1500
+Carrots	|3	carrot	| $0.33 |	30
+Total | --- |14.11 |3895.5
+Total/meal| --- |  282| 779.1
 
 
 <h2> Step 1 </h2>
 
-Firstly, I got a big pot of water boiling in which I could soak my rice noodles. Since we are going to 'stir-fry' them later, I brought the water to a boil, turned off the heat, added the noodles, and just let them soak for about 5-6 minutes. Once they were finished soaking, I drained them and let them cool (no need to wash the pot yet- we are going to use it later!) 
+Firstly, I wanted to cook my potatoes since I knew that would take the longest. I treated the potatoes as if they were chicken (cooking and seasoning them first and then adding them to the sauce later). In order to peel the potatoes, I used a trick I have heard about and found online. 
 
-While the noodles were soaking, I chopped my onions, carrots, and green onions. 
-
+I got a big pot of water boiling on the stove to start. While I was waiting for that to boil, I chopped my vegetables. 
 <figure class="half">
-  <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Soaking Noodles.jpg">
-  <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Chopped Ingredients Rotated.jpg">
-	<figcaption> Noodles soaking in pot - chopped ingredients </figcaption>
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/1.5 Boiling Water.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/1 Chopped Ingredients.jpg">
+	<figcaption> Water starting to boil - chopped ingredients </figcaption>
 </figure>
 
 <h2> Step 2 </h2>
 
-Next, I added my olive oil and garlic to a large pan to sauté. After about a minute, when the pan was fully heated, I added the onion and carrots and let the whole dish sauté over medium-high heat for 5 minutes. 
+Once the water was boiling, I went ahead and weighed out my potatoes so I could get an accurate calorie count. Once they were weighed, I "scored" the potatoes- meaning I took a paring knife and cut a little circle around the small circumference of the potatoes. The intention behind this step is that after they are done boiling, it will help "peel" off the outside of the potato. 
 
-After the carrots and onion were cooked, I cracked 1 fresh egg into the pan, turned off the burner, and let the residual heat slowly cook the egg. 
-
-<figure class="third">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Garlic Oil.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Onion Carrots.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Onion Carrots Add Egg.jpg">
-	<figcaption> Stir-fry when adding garlic, onion/carrots, and egg </figcaption>
+Once they are scored, go ahead and add them to the pot of boiling water and let them boil for about 15 minutes. 
+<figure class="half">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/2 Weighed Potato.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/2.5 Scored Potato.jpg">
+	<figcaption> Weighed and Scored Potatoes </figcaption>
 </figure>
+
 
 <h2> Step 3 </h2>
 
-Once the egg was no longer runny, I used the same large pot in which I soaked the noodles to make the sauce. Firstly, I put .5 cups of water and 1 vegetable bouillon cube into the pot. If you do not have bouillon cubes, you can use .5-1 cups of vegetable/chicken broth. Once the cube is dissolved (or broth heated), move on to the next step.
+Once the potatoes are done cooking, go ahead and drain them from the boiling water, refill the pot with ice water, and add the potatoes to the cold water. Let them cool off before plucking them one-by-one from the ice bath and gently peeling off their outer coat. They should peel off relatively easily- don't worry if there are some peels still left. 
+Once they are peeled, chop them into bite-sized pieces. 
+<figure class="third">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/3 Potato in Ice.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/3.3 Potato Peeled.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/3.5 Peeled Chopped Potato.jpg">
+	<figcaption> Potatoes in ice bath, peeled, and chopped</figcaption>
+</figure>
 
 <h2> Step 4 </h2>
 
-Collect your remaining ingredients and prepare to add them, one at a time, to the bouillon broth. This means adding 2 tbsp honey, 3 tsp fish sauce, 3 tbsp peanut butter, 2 tbsp rice vinegar, 4 tbsp soy sauce, and the juice of 1 lime into the pot. Let this mixture come to a slow simmer before moving on. 
+After the potatoes are chopped, melt 1 tbsp of butter in a large skillet. Traditional Tikka Masala, from what I have read online, uses a clarified butter. However, since I didn't have any handy, I went ahead and used the butter in my refrigerator. This probably contributed to the fact that my finished product tasted less authentic than I would have liked. 
 
+Once the butter is slightly melted, add the potatoes, stir, then season with your Tikka Masala seasoning mix or seasonign (check ingredients for full list). 
+<figure class="third">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/4 Butter.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/4.3 Butter Potatoes.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/4.5 Potato Seasoning.jpg">
+	<figcaption> Potatoes bathing in butter and seasoning</figcaption>
+</figure>
 <h2> Step 5 </h2>
 
-Once the peanut butter is melted and the whole broth is simmering, feel free to give it a taste and adjust to your personal preferences. I tend to add more rice vinegar, but it is completely up to you! If the smell of fish sauce does not turn you off too much, adding more fish sauce will give the Pad Thai a more authentic taste.  
+Once the potatoes are fully coated, go ahead and use the same pot to melt the rest of your butter. 
 
-Next, add the onion/carrot/egg sautéed mixture into the sauce and cook for 1 minute.
+Once the butter is melted, add the chopped garlic and stir for about 1 minute. Then add your onions and carrots and cook until soft (about 5-7 minutes). 
 
-Once that is fully incorporated, add the cooked rice noodles along with a little bit of olive oil and 1 tbsp soy sauce to the pot and stir until the rice noodles are coated. 
-
-<figure class="third">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/First Half Sauce.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Finished Pad Thai Sauce.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Mixed Pad Thai.jpg">
-	<figcaption> Finished sauce, after adding onions/carrots/egg, and after adding noodles </figcaption>
+<figure class="half">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/5 butter garlic.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/5.5 onions and carrots.jpg">
+	<figcaption> Butter/Garlic and Onion/Carrots </figcaption>
 </figure>
 
 <h2> Step 6 </h2>
 
-Lastly, I added 1/4 cup of salted peanuts into a ziplock bag and used a rolling pin to crush them. I then took the crushed peanuts, roasted them over high heat for about 30 seconds to 1 minute, then used them as garnish for the top of the Pad Thai. In my opinion, roasted peanuts not only smell amazing but provide a really nice crunch to the dish! This is especially important because as the week progresses and the flavors begin to mix, the peanuts will diversify the texture of your meal. 
+Once those have fully cooked down, add 1 tbsp of tomato paste, stir until incorporated, and then add your chopped tomatoes. 
+
+Stir the mixture until the tomatoes have cooked down (another 5-7 minutes) then add 1 cup of water and a cub of vegetable broth (or just 1 cup of vegetable/chicken broth, to taste). 
 
 <figure class="third">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Unhammered Peanuts.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Hammered Peanuts.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Roasting Peanuts Rotates.jpg">
-	<figcaption> Uncrushed peanuts, peanuts after crushing, and roasted peanuts </figcaption>
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/6 Tomato Paste Stirred.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/6.3 Tomato Added.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/6.5 Water and Cube.jpg">
+	<figcaption> Sauce after adding tomato paste, tomatoes, and vegetable broth</figcaption>
 </figure>
 
-Then you are all done! Serve the Pad Thai in separate dishes, topped with peanuts/cilantro/green onion/lime wedge as you see fit.
+<h2> Step 7 </h2>
 
-For my week 5 meal prep, I made this dish with a side of [roasted thyme potatoes](http://underwriteyourlife.com/recipe/RoastedSeasonedPotatoes/). If you are interested, [click here](http://underwriteyourlife.com/meal%20prep/Week5Evaluation/) to see how this meal held up over the course of the week! 
+Let the mixture cook about ten more minutes before adding 1 can of full fat coconut milk. I read online the reason full fat was important is in order to create a thick "curry" like texture. 
 
-<img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Close Up Better.jpg">
+Let coconut milk simmer until the mixture thickens, about 5 minutes. 
+
+<figure class="half">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/7 Coconut Milk.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/7.5 Coconut Milk Simmering.jpg">
+	<figcaption> Immediately after adding the coconut milk and after simmering </figcaption>
+</figure>
+
+<h2> Step 8 </h2>
+
+Lastly, add the seasoned potatoes to the curry sauce, stir, and let simmer until they are fully cooked. Serve with garnished of your choice!
+
+<figure class="third">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/8 Potatoes.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/8.3 Potatoes Added.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/8.5 Potatoes Simmering.jpg">
+	<figcaption> Curry sauce with potatoes added, stirred, and fully simmered </figcaption>
+</figure>
+
+Ultimately, this dish did not taste like traditional Tikka Masala. This is probably unsurprising due to the number of corners that were cut in regards to the ingredients, however, it did still taste decent! The coconut milk was relatively overwhelming, so if you are not a fan of the flavor of coconut milk, heavy cream would probaby be a better way to go. 
+
+<img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/Final Product (50 percent).jpg">
