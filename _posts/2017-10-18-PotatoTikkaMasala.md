@@ -18,7 +18,7 @@ There was just one problem... Chef John was using Chicken in his Tikka Masala. M
 
 All-in-all, while I am categorizing this as a ["recipe failure"](http://underwriteyourlife.com/recipesforfailure/) since it definitely does not taste like traditional tikka masala, it is still completely edible and I am committed to eating it throughout the week. In fact, as I am writing this on a Tuesday, it's actually been pretty good so far! Just not what I was expecting. 
 
-[Click here](http://underwriteyourlife.com/comingsoon/) to read my review about how the Potato Tikka Masala held up throughout the week. 
+[Click here](http://underwriteyourlife.com/meal%20prep/Week6Evaluation/) to read my review about how the Potato Tikka Masala held up throughout the week. 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/ingredients.jpg">
