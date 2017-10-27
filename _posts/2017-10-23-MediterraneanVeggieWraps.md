@@ -82,5 +82,5 @@ And that's it! Serve them with your hard-boiled egg and a side of baby carrots a
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/MedVeg Wraps/4 Finished Product1.jpg">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/MedVeg Wraps/4.5 Finished Product3.jpg">
-	<figcaption> Boiling eggs and chopped tomato </figcaption>
+	<figcaption> Completed Week 7 Wraps for Lunch </figcaption>
 </figure>
