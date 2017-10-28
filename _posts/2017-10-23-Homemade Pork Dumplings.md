@@ -72,7 +72,7 @@ Let the dough rest while you continue with the next steps.
 
 <h2> Step 3 </h2>
 
-Chop your green onions and cabbage. Take the napa cabbage and use a cloth to squeeze out the excess water.  
+Chop your green onions, garlic, and cabbage. Take the napa cabbage and use a cloth to squeeze out the excess water.  
 
 <figure class="third">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/3 Chopped2.jpg">
@@ -83,7 +83,7 @@ Chop your green onions and cabbage. Take the napa cabbage and use a cloth to squ
 
 <h2> Step 4 </h2>
 
-In a large bowl, add the seasonings, green onion, napa cabbage, and ground pork. Use your hand or spatula to fully mix these ingredients together to form the filling of your dumplings. 
+In a large bowl, add the seasonings, garlic, green onion, napa cabbage, and ground pork. Use your hand or spatula to fully mix these ingredients together to form the filling of your dumplings. 
 
 <figure class="third">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/4 Mixed Ingredients 2.jpg">
