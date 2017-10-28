@@ -18,7 +18,7 @@ Despite all this, I was actually pleasantly surprised about how these turned out
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/0 Ingredients.jpg">
-  <img src="{{ site.url }}//mages/Meal Prep/Week 7/Dumplings/0.5 Finished Product2.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/0.5 Finished Product2.jpg">
 	<figcaption>Dumpling Ingredients and Final Product</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Once your filling is made, take your rested dough, re-knead, and divide it into 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/5 Rolled Dough3.jpg">
-  <img src="{{ site.url }}//mages/Meal Prep/Week 7/Dumplings/5.3 Sectioned Dough.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/5.3 Sectioned Dough.jpg">
 	<figcaption>Divided dumpling dough</figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ And there you have it! They aren't particularly pretty, and I'm sure you can add
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/10 Finished Product1.jpg">
-  <img src="{{ site.url }}//mages/Meal Prep/Week 7/Dumplings/10.5 Finished Product4.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/10.5 Finished Product4.jpg">
 	<figcaption> Finished Dumplings </figcaption>
 </figure>
 
