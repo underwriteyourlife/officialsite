@@ -14,7 +14,7 @@ image:
 
 This is a lunch box that I ate for about a month before I began meal-prepping. I didn't use any specific recipe, instead I just kinda used what sounded good and what was available at Trader Joe (I don't work for Trader Joes, I promise!). I've made this recipe using chicken thighs but ultimately with the hummus and tzatziki it was just too expensive all combined, and when push comes to shove I will pick sauces over meat any day. 
 
-Regardless, this meal is a staple in my recipe excel-sheet and I'm excited to pass it along!Click here](http://underwriteyourlife.com/meal%20prep/Week7Evaluation/) to read more about how the lunch box held up over Week 7. 
+Regardless, this meal is a staple in my recipe excel-sheet and I'm excited to pass it along![Click here](http://underwriteyourlife.com/meal%20prep/Week7Evaluation/) to read more about how the lunch box held up over Week 7. 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/MedVeg Wraps/0 Ingredients.jpg">
