@@ -2,21 +2,21 @@
 
 - title: About
   url: /about/
-  image: /Webp.net-resizeimage (1).png
+  image: /Table of Contents/About Teaser.jpg
 
 - title: Meal Prep
   url: /mealprep/
   excerpt: "Meal Prep"
-  image: /Webp.net-resizeimage (1).png
+  image: /Table of Contents/Meal Prep Teaser.jpg
 
 - title: Recipes
   url: /recipes/
   excerpt: "Recipes that were edible"
-  image: /Webp.net-resizeimage (1).png
+  image: /Table of Contents/Recipe Teaser.jpg
   
 - title: Recipes for Failure
   excerpt: "Recipes that weren't so edible"
   url: /recipesforfailure/
-  image: /Webp.net-resizeimage (1).png
+  image: /Table of Contents/Failure Teaser.jpg
 
   
