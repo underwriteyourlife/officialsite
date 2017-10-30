@@ -3,6 +3,7 @@ layout: default
 title: Week 7 Meal Prep Evaluation
 excerpt: A quick look at how Week 6's dishes lasted throughout the week
 category: Meal Prep
+comments: true
 tags: Meal Prep
 image:
   teaser: /Meal Prep/Week 7/Evaluation/400x250 Final Product Greyscale.png
