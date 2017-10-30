@@ -1,0 +1,42 @@
+---
+layout: default
+title: 
+category: Recipe Recipe Failure Meal Prep
+tags: Recipe Recipe Failure Meal Prep
+excerpt:  
+image:
+  teaser: /Meal Prep/
+---
+
+# 
+
+<figure class="half">
+	<img src="{{ site.url }}/images/Meal Prep/">
+	<img src="{{ site.url }}/images/Meal Prep/">
+	<figcaption>  </figcaption>
+</figure>
+
+<figure class="third">
+	<img src="{{ site.url }}/images/Meal Prep/">
+	<img src="{{ site.url }}/images/Meal Prep/">
+	<img src="{{ site.url }}/images/Meal Prep/">
+	<figcaption>  </figcaption>
+</figure>
+
+**Ingredient** | **Amount** | **Cost** |   **Calories**
+|:------------- |:-------------:| :-----:|   -----:|
+
+Total	|	---		|	 $	|	
+Total /Serving	|	---		|	 $ 	|	
+
+<h2> Step 1 </h2>
+
+<h2> Step 2 </h2>
+
+<h2> Step 3 </h2>
+
+<h2> Step 4 </h2>
+
+<h2> Step 5 </h2>
+
+<h2> Step 6 </h2>
