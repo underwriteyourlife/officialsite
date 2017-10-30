@@ -2,8 +2,8 @@
 
 title: "Underwrite Your Life"
 description: "Finance for the Rest of Us"
-logo: #120x120 image used mainly for twitter cards if a large feature image isn't there. upload this to images folder then link here
-teaser: /image-alignment-300x200.jpg # 400x250 px default teaser image used in image archive grid
+logo: /Table of Contents/About Teaser.jpg #120x120 image used mainly for twitter cards if a large feature image isn't there. upload this to images folder then link here
+teaser: /Table of Contents/About Teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url: ##
 feed:
