@@ -39,6 +39,7 @@ Additionally, some people seem to think that hard boiled eggs will go bad if lef
 </figure>
 
 {% if page.comments %}
+
 <div id="disqus_thread"></div>
 <script>
 
