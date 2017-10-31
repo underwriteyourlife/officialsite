@@ -27,21 +27,21 @@ If you serve it with Wheat Thins, or another type of chip, that will increase yo
 
 **Ingredient** | **Amount** | **Cost (USD)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** |  **Calories (kcal)**|
 |:------------ |:----------:| --------------:| ---------------:| -------------:| -----------:| -------------------:|
-Mayonnaise	|	5	tbsp	|	 $0.58 	|	0g	|	10g	|	8g	|	100cal
-Plain Yogurt	|	0.3125	cup	|	 $0.47 	|	3g	|	5g	|	0g	|	38cal
-Lemon	|	0.5	lemon	|	 $0.25 	|	0g	|	3g	|	0g	|	9cal
-Honey	|	1	tbsp	|	 $0.22 	|	0g	|	17g	|	0g	|	60cal
-Curry Powder	|	0.33	tbsp	|	 $0.04 	|	0g	|	1g	|	0g	|	6cal
-Salt	|	1	tsp	|	 $0.01 	|	0g	|	0g	|	0g	|	0cal
-Pepper	|	0.25	tsp	|	 $0.01 	|	0g	|	0g	|	0g	|	0cal
-Chicken Breast	|	32	oz	|	 $5.86 	|	176g	|	0g	|	20g	|	880cal
-Celery	|	4	stalks	|	 $1.25 	|	1g	|	5g	|	0g	|	30cal
-Green Onion	|	3	green onion	|	 $0.26 	|	3g	|	6g	|	0g	|	15cal
-Green Apple	|	1	apple	|	 $1.29 	|	0g	|	19g	|	0g	|	100cal
-Raisins	|	0.5	cup	|	 $0.57 	|	2g	|	64g	|	0g	|	240cal
-Onion	|	1	onion	|	 $.69 	|	2g	|	14g	|	0g	|	44cal
-Total	|	---|	  $11.49 |	189g|	144g	|	28g	|	1522cal
-Total/Meal	|---|	 $1.92 	|	31g	|	24g	|	5g	|	254cal
+Mayonnaise	|	5	tbsp	|	 $0.58 	|	0g	|	10g	|	8g	|	100 cal
+Plain Yogurt	|	0.3125	cup	|	 $0.47 	|	3g	|	5g	|	0g	|	38 cal
+Lemon	|	0.5	lemon	|	 $0.25 	|	0g	|	3g	|	0g	|	9 cal
+Honey	|	1	tbsp	|	 $0.22 	|	0g	|	17g	|	0g	|	60 cal
+Curry Powder	|	0.33	tbsp	|	 $0.04 	|	0g	|	1g	|	0g	|	6 cal
+Salt	|	1	tsp	|	 $0.01 	|	0g	|	0g	|	0g	|	0 cal
+Pepper	|	0.25	tsp	|	 $0.01 	|	0g	|	0g	|	0g	|	0 cal
+Chicken Breast	|	32	oz	|	 $5.86 	|	176g	|	0g	|	20g	|	880 cal
+Celery	|	4	stalks	|	 $1.25 	|	1g	|	5g	|	0g	|	30 cal
+Green Onion	|	3	green onion	|	 $0.26 	|	3g	|	6g	|	0g	|	15 cal
+Green Apple	|	1	apple	|	 $1.29 	|	0g	|	19g	|	0g	|	100 cal
+Raisins	|	0.5	cup	|	 $0.57 	|	2g	|	64g	|	0g	|	240 cal
+Onion	|	1	onion	|	 $.69 	|	2g	|	14g	|	0g	|	44 cal
+Total	|	---|	  $11.49 |	189g|	144g	|	28g	|	1522 cal
+Total/Meal	|---|	 $1.92 	|	31g	|	24g	|	5g	|	254 cal
 
 <h2> Step 1 </h2>
 
