@@ -26,7 +26,7 @@ If you serve it with Wheat Thins, or another type of chip, that will increase yo
 </figure>
 
 **Ingredient** | **Amount** | **Cost (USD)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** |  **Calories (kcal)**|
-|:------------- |:-------------:| :-----:|   -----:||------:| --:| -----:|
+|:------------ |:----------:| --------------:| ---------------:| -------------:| -----------:| -------------------:|
 Mayonnaise	|	5	tbsp	|	 $0.58 	|	0g	|	10g	|	8g	|	100cal
 Plain Yogurt	|	0.3125	cup	|	 $0.47 	|	3g	|	5g	|	0g	|	38cal
 Lemon	|	0.5	lemon	|	 $0.25 	|	0g	|	3g	|	0g	|	9cal
