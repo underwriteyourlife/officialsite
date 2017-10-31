@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 7 Meal Prep Evaluation
-excerpt: A quick look at how Week 6's dishes lasted throughout the week
+excerpt: A quick look at how Week 7's dishes lasted throughout the week
 category: Meal Prep
 comments: true
 tags: Meal Prep
