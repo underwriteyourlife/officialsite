@@ -15,7 +15,9 @@ While I was on the fence about cooking chicken as part of a meal-prep week becau
 
 All-in-all, this meal was super easy and quick to cook and I have been looking forward to lunch every day because I get to munch down on this originally questionable meal choice. 
 
-Here are the ingredients you'll need to cook this dish! All together it made 6 servings of 1 cups each (so just about 6 cups), with each serving only costing your wallet $1.36 and waistline 247 calories. 
+Here are the ingredients you'll need to cook this dish! All together it made 6 servings of 1 cups each (so just about 6 cups), with each serving only costing your wallet $1.92 and waistline 254 calories. 
+
+If you serve it with Wheat Thins, or another type of chip, that will increase your cost to $2.52 and calories to 384 kcal. 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Close Up of Chicken Curry.jpg">
@@ -23,23 +25,23 @@ Here are the ingredients you'll need to cook this dish! All together it made 6 s
 	<figcaption>Chicken Curry Salad Final Product and Ingredient List</figcaption>
 </figure>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Mayonnaise|	4 tbsp	| $.47 |	80
-Red Onion |1 onion |$1.00| 44
-Lemon|	.5 lemon	| $0.25 |	3
-Plain Yogurt|	.25	cups	| $0.37 |	30
-Honey	|1	tbsp|	 $.22 	| 60
-Curry Powder|	.33	tbsp|	 $0.04 |	0
-Salt|	0.25	tsp|	 $0.01 |	0
-Pepper	| .25 tsp	| $0.01 |	0
-Chicken Breast|	32 oz	| $5.86 |	880
-Celery|	4	stalks |	 $1.25|	30
-Green Apple|	1 apple	| $1.29 |	100
-Raisins	| .5 cups	| $0.57 |	240
-Green Onion|	3	|	 $0.26 |	15
-
-In total, that is $11.59 US dollars worth of ingredients and 1481.5 calories.
+**Ingredient** | **Amount** | **Cost (USD)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** |  **Calories (kcal)**|
+|:------------- |:-------------:| :-----:|   -----:||------:| --:| -----:|
+Mayonnaise	|	5	tbsp	|	 $0.58 	|	0g	|	10g	|	8g	|	100cal
+Plain Yogurt	|	0.3125	cup	|	 $0.47 	|	3g	|	5g	|	0g	|	38cal
+Lemon	|	0.5	lemon	|	 $0.25 	|	0g	|	3g	|	0g	|	9cal
+Honey	|	1	tbsp	|	 $0.22 	|	0g	|	17g	|	0g	|	60cal
+Curry Powder	|	0.33	tbsp	|	 $0.04 	|	0g	|	1g	|	0g	|	6cal
+Salt	|	1	tsp	|	 $0.01 	|	0g	|	0g	|	0g	|	0cal
+Pepper	|	0.25	tsp	|	 $0.01 	|	0g	|	0g	|	0g	|	0cal
+Chicken Breast	|	32	oz	|	 $5.86 	|	176g	|	0g	|	20g	|	880cal
+Celery	|	4	stalks	|	 $1.25 	|	1g	|	5g	|	0g	|	30cal
+Green Onion	|	3	green onion	|	 $0.26 	|	3g	|	6g	|	0g	|	15cal
+Green Apple	|	1	apple	|	 $1.29 	|	0g	|	19g	|	0g	|	100cal
+Raisins	|	0.5	cup	|	 $0.57 	|	2g	|	64g	|	0g	|	240cal
+Onion	|	1	onion	|	 $.69 	|	2g	|	14g	|	0g	|	44cal
+Total	|	---|	  $11.49 |	189g|	144g	|	28g	|	1522cal
+Total/Meal	|---|	 $1.92 	|	31g	|	24g	|	5g	|	254cal
 
 <h2> Step 1 </h2>
 
