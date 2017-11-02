@@ -23,11 +23,12 @@ image:
 	<figcaption>  </figcaption>
 </figure>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
 
-Total	|	---		|	 $	|	
-Total /Serving	|	---		|	 $ 	|	
+**Ingredient** | **Amount** | **Cost (USD)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** |  **Calories (kcal)**|
+|:------------ |:----------:| --------------:| ---------------:| -------------:| -----------:| -------------------:|
+
+Total	|	---|	  $ |	g|	g	|	g	|	 cal
+Total/Meal	|---|	 $	|	g	|	g	|	g	|	cal
 
 <h2> Step 1 </h2>
 
