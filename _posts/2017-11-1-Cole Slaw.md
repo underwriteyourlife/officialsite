@@ -15,8 +15,8 @@ All I can say is that I guess I cut too many corners when it came to making this
 If you were going to take a stab at fixing where I went wrong, I would say the best place to start would be using more sugar, a real mayonnaise (not Miracle Whip), and avoiding the Broccoli Slaw. 
 
 <figure class="half">
-	<img src="{{ site.url }}/images/Meal Prep/0 Ingredients.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/0.5 Final.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/0 Ingredients.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/0.5 Final.jpg">
 	<figcaption> Cole Slaw Ingredients and Final Product </figcaption>
 </figure>
 
@@ -42,8 +42,8 @@ This combination produced 5 1-cup servings of cole slaw.
 On the bright side, this is a really easy dish to make. Just empty out your lettuce/slaw mix (or chop your ingredients) into a bowl and squeeze the juice of half of a lemon over the mixture. Use a spoon to give it a quick toss. 
 
 <figure class="half">
-	<img src="{{ site.url }}/images/Meal Prep/1 Slaw.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/1.5 Lemon.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/1 Slaw.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/1.5 Lemon.jpg">
 	<figcaption> Slaw with Lemon </figcaption>
 </figure>
 
@@ -52,8 +52,8 @@ On the bright side, this is a really easy dish to make. Just empty out your lett
 Next, pour your vinegar and mayo over the mixture (5 tbsp of vinegar and ~12 tbsp of mayo or until fully coated). Give that a quick mix. 
 
 <figure class="half">
-	<img src="{{ site.url }}/images/Meal Prep/2 Vinegar.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/2.5 Mayo.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/2 Vinegar.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/2.5 Mayo.jpg">
 	<figcaption> Adding Vinegar and Mayo </figcaption>
 </figure>
 
@@ -62,15 +62,15 @@ Next, pour your vinegar and mayo over the mixture (5 tbsp of vinegar and ~12 tbs
 Lastly, add your raisins and spices to taste. Ensure the whole bowl has been fully mixed. You can eat it now, but I let it sit in the fridge overnight to ensure the slaw softened and soaked up all the flavor. 
 
 <figure class="half">
-	<img src="{{ site.url }}/images/Meal Prep/3 Raisins.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/3.5 Seasoning.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/3 Raisins.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/3.5 Seasoning.jpg">
 	<figcaption> Adding Raisins and Seasoning </figcaption>
 </figure>
 
 Like I said, there were a lot of corners I cut in trying to make this dish a little more healthy. I wouldn't reccomend making it the same way that I did. There's a reason why cole slaw isn't known as a healthy food, and maybe some things shouldn't change. 
 
 <figure class="half">
-	<img src="{{ site.url }}/images/Meal Prep/4 Final.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/4.5 Final.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/4 Final.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/4.5 Final.jpg">
 	<figcaption> Final Cole Slaw </figcaption>
 </figure>
