@@ -11,7 +11,7 @@ Welcome to Underwrite Your Life!
 
 My name is Emily, and I am probably not qualified to teach you anything about cooking, meal prep, or life in general. However, after graduating college and settling my broke butt into a high-cost of living area, I knew I needed to make a few lifestyle changes.
 
-One of the largest changes for me has been learning to meal prep! Meal Prepping is essentially pre-preparing your meals for the week in order to cut down on the time you spend cooking as well as reduce your food costs. After some friends expressed an interest in how I was cooking my meals, I decided to make this website as a sort of archive of my meal prep successes and failures. 
+One of the largest changes for me has been learning to meal prep. Meal Prepping involves pre-preparing your meals for the week in order to cut down on the time you spend cooking as well as reduce your food costs. After some friends expressed an interest in how I was cooking my meals, I decided to make this website as a sort of archive of my meal prep successes and failures. 
 
 My food budget is $50 US dollars per week, so I try to keep my meals as cheap as possible! As a rule of thumb, my meal prep meals will cost anywhere between $1-$3 dollars per meal. My meal prepped foods usually account for about $30-$40 dollars of that budget and around 1200-1500 calories per day. The rest of the $10-$20 dollars (and calories!) I usually spend on pre-packaged snacks, desserts, and wine. 
 
