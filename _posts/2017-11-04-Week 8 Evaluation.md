@@ -26,7 +26,7 @@ Rest assured, leaving your cooked chicken for a week in the fridge will not make
 </figure>
 
 
-#[Zucchini Boats](http://underwriteyourlife.com/recipe/Zucchini-Boats/) and [Cole Slaw](http://underwriteyourlife.com/recipe%20failure/Cole-Slaw/) 
+# [Zucchini Boats](http://underwriteyourlife.com/recipe/Zucchini-Boats/) and [Cole Slaw](http://underwriteyourlife.com/recipe%20failure/Cole-Slaw/) 
 
 The zucchini boats and cole slaw were another story. In all honesty, I can't really speak to how well the cole slaw held up over the course of the week because I didn't eat a lot of it. I can attest that it did get more vinegar-y as the week went on but the slaw itself held its crunch pretty well. 
 
