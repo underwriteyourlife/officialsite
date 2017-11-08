@@ -10,14 +10,6 @@ image:
 
 # Cole Slaw
 
-<div class="c100 p25">
-  <span>25%</span>
-  <div class="slice">
-    <div class="bar"></div>
-    <div class="fill"></div>
-  </div>
-</div>
-
 All I can say is that I guess I cut too many corners when it came to making this Cole Slaw inspried by [Robert Irving](http://www.foodnetwork.com/recipes/robert-irvine/cole-slaw-recipe0-1947123). I served it as a side dish to my [Zucchini Boats]() but honestly I ended up throwing it out most days around lunchtime. Luckily leftover halloween candy was a nice replacement. 
 
 If you were going to take a stab at fixing where I went wrong, I would say the best place to start would be using more sugar, a real mayonnaise (not Miracle Whip), and avoiding the Broccoli Slaw. 
@@ -28,22 +20,47 @@ If you were going to take a stab at fixing where I went wrong, I would say the b
 	<figcaption> Cole Slaw Ingredients and Final Product </figcaption>
 </figure>
 
-**Ingredient** | **Amount** | **Cost (USD)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** |  **Calories (kcal)**|
-|:------------ |:----------:| --------------:| ---------------:| -------------:| -----------:| -------------------:|
-TJ Lettuce Mix	|	6	cup	|	 $1.99 	|	3g	|	18g	|	0g	|	90 cal
-TJ Broccoli Slaw	|	4	cup	|	 $1.99 	|	8g	|	20g	|	0g	|	100 cal
-Lemon	|	0.5	lemon	|	 $0.25 	|	0.32g	|	2.71g	|	0.09g	|	9 cal
-Celery Seed	|	1	tsp	|	 $0.30 	|	0.36g	|	0.83g	|	0.51g	|	8 cal
-Salt	|	2	tsp	|	 $0.02 	|	0g	|	0g	|	0g	|	0 cal
-Pepper	|	2	tsp	|	 $0.06 	|	0g	|	0.12g	|	0g	|	2 cal
-Raisins	|	0.25	cup	|	 $0.29 	|	1g	|	32g	|	0g	|	120 cal
-White Wine Vinegar	|	5	tbsp	|	 $0.35 	|	0g	|	0g	|	0g	|	25 cal
-Sugar	|	3	tsp	|	 $0.01 	|	0g	|	12.60g	|	0g	|	45 cal
-Mayonnaise	|	12	tbsp	|	 $1.40 	|	0g	|	24g	|	18g	|	240 cal
-Total	|	---|	$6.65 |	13g|	110g	|	19g	|	638.5 cal
-Total/Meal	|---|	 $1.33	|	3g	|	22g	|	4g	|	128 cal
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	TJ Lettuce Mix	|	6	cup	|	 $1.99 	|	3g	|	18g	|	0g	|	90 cal
+|	TJ Broccoli Slaw	|	4	cup	|	 $1.99 	|	8g	|	20g	|	0g	|	100 cal
+|	Lemon	|	0.5	lemon	|	 $0.25 	|	0g	|	3g	|	0g	|	9 cal
+|	Celery Seed	|	1	tsp	|	 $0.30 	|	0g	|	1g	|	1g	|	8 cal
+|	Salt	|	2	tsp	|	 $0.02 	|	0g	|	0g	|	0g	|	0 cal
+|	Pepper	|	2	tsp	|	 $0.06 	|	0g	|	0g	|	0g	|	2 cal
+|	Raisins	|	0.25	cup	|	 $0.29 	|	1g	|	32g	|	0g	|	120 cal
+|	White Wine Vinegar	|	5	tbsp	|	 $0.35 	|	0g	|	0g	|	0g	|	25 cal
+|	Sugar	|	3	tsp	|	 $0.01 	|	0g	|	13g	|	0g	|	45 cal
+|	Mayonnaise	|	12	tbsp	|	 $1.40 	|	0g	|	24g	|	18g	|	240 cal
+|	Total	|	-	-	|	 $6.65 	|	13g	|	110g	|	19g	|	639 cal
+|	Total/Meal	|	---	---	|	 $1.33 	|	3g	|	22g	|	4g	|	128 cal
 
-This combination produced 5 1-cup servings of cole slaw. 
+This combination produced 5 servings of 1-cup of cole slaw each.  
+
+<div class="c100 p78">
+  <span>78%</span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+Carbs
+<div class="c100 p9">
+  <span>9%</span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+Protein
+<div class="c100 p13">
+  <span>13%</span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+Fat
 
 <h2> Step 1 </h2>
 
