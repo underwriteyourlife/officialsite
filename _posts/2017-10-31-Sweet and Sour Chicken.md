@@ -10,40 +10,75 @@ image:
 
 # Sweet and Sour Chicken
 
-Anyone that knows me well knows that I have a horrible sweet tooth. I would gladly eat dessert instead of dinner if I could sustain myself for more than a couple weeks. In this vain, I thought I would try to tackle a sweet and sour chicken dish with brown rice this week. I didn't follow any one recipe in order to make this dish- once I got the idea of using pineapple in chicken, I just kinda added what sounded good. 
+Anyone that knows me well knows that I have a horrible sweet tooth. I would gladly eat dessert instead of dinner if I could sustain myself for more than a couple weeks. In this vain, I thought I would try to tackle a sweet and sour chicken dish with brown rice this week. I didn't follow any one recipe in order to make this dish- once I got the idea of using pineapple in chicken, I just added what sounded good. 
 
-The result wasn't bad! It is definitley sweet but not overwhelming. The rice vinegar and soy sauce help cut the flavor and the added protien from the chicken and brown rice makes it super filling. The one thing I would do differently in the future is to use pineapple chunks instead of crushed pineapple. 
+The result wasn't bad! It is definitely sweet but not overwhelming. The rice vinegar and soy sauce help cut the flavor and the added protein from the chicken and brown rice makes it super filling. The one thing I would do differently in the future is to use pineapple chunks instead of crushed pineapple. 
 
 <figure class="half">
 	<img src="{{ site.url }}/images/Meal Prep/Week 8/Sweet and Sour Chicken/0 Ingredients.jpg">
 	<img src="{{ site.url }}/images/Meal Prep/Week 8/Sweet and Sour Chicken/0.5 Final.jpg">
 	<figcaption> Sweet and Sour Chicken Ingredients and Final Product  </figcaption>
 </figure>
+<div class="c100 p64 big">
+  <span>64% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost (USD)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** |  **Calories (kcal)**|
-|:------------ |:----------:| --------------:| ---------------:| -------------:| -----------:| -------------------:|
-Chicken Breast	|	26	oz	|	 $4.76 	|	143.00	|	0.00	|	16.25	|	715
-Shredded Carrots	|	6	oz	|	 $1.66 	|	2.00	|	16.00	|	0.00	|	70
-Crushed Pineapple	|	2.25	cup	|	 $1.39 	|	4.50	|	90.00	|	0.00	|	315
-Soy Sauce	|	5	tbsp	|	 $1.00 	|	5.00	|	5.00	|	0.00	|	75
-Rice Vinegar	|	2	tbsp	|	 $0.33 	|	0.00	|	0.00	|	0.00	|	0
-Onion	|	1	onion	|	 $1.00 	|	2.00	|	14.00	|	0.00	|	44
-Green Bell Peppers	|	1	pepper	|	 $0.89 	|	1.00	|	7.00	|	0.00	|	33
-Green Onion	|	3	green onion	|	 $0.26 	|	3.00	|	6.00	|	0.00	|	15
-Fresh Garlic	|	3	clove	|	 $0.10 	|	0.57	|	2.97	|	0.06	|	12
-Fresh Ginger	|	0.25	inch	|	 $0.05 	|	0.00	|	0.00	|	0.00	|	4
-Brown Rice	|	2	cup	|	 $1.33 	|	32.00	|	296.00	|	8.00	|	1360
-Vegetable Oil	|	2	tbsp	|	 $0.10 	|	0.00	|	0.00	|	27.20	|	260
-Salt	|	3	tsp	|	 $0.04 	|	0.00	|	0.00	|	0.00	|	0
-Pepper	|	3	tsp	|	 $0.08 	|	0.00	|	0.18	|	0.00	|	3
-Total	|	---|	  $13.00 |	193g|	437g	|	52g	|	2905.75 cal
-Total/Meal	|---|	 $2.60 	|	39g	|	87g	|	10g	|	581.2 cal
+<div class="c100 p28 big">
+  <span>28%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-In total, the recipe made me 5 servings of Sweet and Sour Chicken. Each serving is 581 calories, with 39g Protien, 87g Carbs, and 10g Fat, costing $2.60. 
+<div class="c100 p8 big">
+  <span>8% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Chicken Breast	|	26	oz	|	 $4.76 	|	143g	|	0g	|	16g	|	715 cal
+|	Shredded Carrots	|	6	oz	|	 $1.66 	|	2g	|	16g	|	0g	|	70 cal
+|	Crushed Pineapple	|	2.25	cup	|	 $1.39 	|	5g	|	90g	|	0g	|	315 cal
+|	Soy Sauce	|	5	tbsp	|	 $1.00 	|	5g	|	5g	|	0g	|	75 cal
+|	Rice Vinegar	|	2	tbsp	|	 $0.33 	|	0g	|	0g	|	0g	|	0 cal
+|	Onion	|	1	onion	|	 $1.00 	|	2g	|	14g	|	0g	|	44 cal
+|	Green Bell Peppers	|	1	pepper	|	 $0.89 	|	1g	|	7g	|	0g	|	33 cal
+|	Green Onion	|	3	green onion	|	 $0.26 	|	3g	|	6g	|	0g	|	15 cal
+|	Fresh Garlic	|	3	clove	|	 $0.10 	|	1g	|	3g	|	0g	|	12 cal
+|	Fresh Ginger	|	0.25	inch	|	 $0.05 	|	0g	|	0g	|	0g	|	4 cal
+|	Brown Rice	|	2	cup	|	 $1.33 	|	32g	|	296g	|	8g	|	1360 cal
+|	Vegetable Oil	|	2	tbsp	|	 $0.10 	|	0g	|	0g	|	27g	|	260 cal
+|	Salt	|	3	tsp	|	 $0.04 	|	0g	|	0g	|	0g	|	0 cal
+|	Pepper	|	3	tsp	|	 $0.08 	|	0g	|	0g	|	0g	|	3 cal
+|	Total	|	-	-	|	 $13.00 	|	193g	|	437g	|	52g	|	2906 cal
+|	Total/Meal	|	---	---	|	 $2.60 	|	39g	|	87g	|	10g	|	581 cal
+
+
+In total, the recipe made me 5 servings of Sweet and Sour Chicken. Each serving is 581 calories, with 39g Protein, 87g Carbs, and 10g Fat, costing $2.60. 
 
 <h2> Step 1 </h2>
 
-Firstly, go ahead and cook your chicken (or other protein). I add 1 tbsp oil to a pan an sear the chicken until it is about 3/4ths cooked. It is ok if you cook it all the way through to ensure your chicken will not be raw, but it will be cooked again later. 
+Firstly, go ahead and cook your chicken (or other protein). I add 1 tbsp oil to a pan and sear the chicken until it is about 3/4ths cooked. It is ok if you cook it all the way through to ensure your chicken will not be raw, but it will be cooked again later. 
 
 Once it is cooked, go ahead and use a fork and knife to chop the chicken up into bite-sized pieces. 
 
@@ -62,7 +97,7 @@ While the chicken is cooking, use this opportunity to chop your bell pepper, oni
 
 <h2> Step 3 </h2>
 
-Once your ingredients are chopped and your chicken is cooked, use the same pan to begin to make the sauce. Go ahead and add your remaining 1tbsp of oil to the pan and gently sautee the garlic over medium heat. Once the pan is fully heated (only about 30 seconds), add your green bell pepper and give it a stir. Immediately add the chopped onion and stir-fry the mixture until the onions are transparent (about 5-7 minutes).
+Once your ingredients are chopped and your chicken is cooked, use the same pan to begin to make the sauce. Go ahead and add your remaining 1tbsp of oil to the pan and gently sauté the garlic over medium heat. Once the pan is fully heated (only about 30 seconds), add your green bell pepper and give it a stir. Immediately add the chopped onion and stir-fry the mixture until the onions are transparent (about 5-7 minutes).
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 8/Sweet and Sour Chicken/3 Garlic.jpg">
