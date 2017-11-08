@@ -37,7 +37,7 @@ If you were going to take a stab at fixing where I went wrong, I would say the b
 
 This combination produced 5 servings of 1-cup of cole slaw each.  
 
-<div class="c100 p78">
+<div class="c100 p78 big">
   <span>78% Carbs</span>
   <div class="slice">
     <div class="bar"></div>
@@ -45,7 +45,7 @@ This combination produced 5 servings of 1-cup of cole slaw each.
   </div>
 </div>
 
-<div class="c100 p9">
+<div class="c100 p9 big">
   <span>9% Protein</span>
   <div class="slice">
     <div class="bar"></div>
@@ -53,7 +53,7 @@ This combination produced 5 servings of 1-cup of cole slaw each.
   </div>
 </div>
 
-<div class="c100 p13">
+<div class="c100 p13 big">
   <span>13% Fat</span>
   <div class="slice">
     <div class="bar"></div>
