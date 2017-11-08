@@ -3,7 +3,7 @@ layout: default
 title: Pumpkin-Spiced Bread Rolls
 category: Recipe
 tags: Recipe
-excerpt: Sometimes I try to not be a sterotypical white American 20-something female. Other times I just embrace it.
+excerpt: Sometimes I try to not be a stereotypical white American 20-something female. Other times I just embrace it.
 image:
   teaser: /Meal Prep/Week 4/Pumpkin Rolls/Pumpkin Rolls Teaser.jpg
   feature: /Meal Prep/Week 4/Pumpkin Rolls/Close-Up of Pumpkin Rolls RESIZED.jpg
@@ -77,7 +77,7 @@ The only ingredient that is not pictured is some pumpkin-spiced cream cheese I p
 |	Total/Roll	|	---	---	|	 $0.08 	|	2g	|	14g	|	2g	|	84 cal
 
 
-In total, that is $2.00 dollars of ingredients and 2020 calories- meaning each roll costs about .08 cents and only 83 calories! So eat up you hungry, hungry, basic bakers. 
+In total, that is $2.00 dollars of ingredients and 2020 calories- meaning each roll costs about .08 cents and only 84 calories! So eat up you hungry, hungry, basic bakers. 
 
 <h2> Step 1 </h2>
 
