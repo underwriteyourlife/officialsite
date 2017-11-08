@@ -24,29 +24,61 @@ Since this week was a lazy week for me, I decided to whip up a few servings of P
   <img src="{{ site.url }}/images/Meal Prep/Week 5/PadThai/Ingredients 2.jpg">
 	<figcaption>Poor Man Pad Thai Ingredient List </figcaption>
 </figure>
+<div class="c100 p75 big">
+  <span>75% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Rice Noodles	|	14	oz	|	 $2.69 	|	1470
-Honey	|	2	tbsp	|	 $0.44 	|	120
-Garlic	|	4 cloves	|	 $0.14	|	0
-Fish Sauce	|	3	tsp	|	 $0.29 	|	15
-Peanut Butter	|	3	tbsp	|	 $0.25 	|	285
-Rice Vinegar	|	2	tbsp	|	 $0.33 	|	0
-Soy Sauce	|	5	tbsp	|	 $1.00 	|	75
-Peanuts	|	0.25	cup	|	 $0.17 	|	160
-Lime	|	2	lime	|	 $0.58 	|	40
-Olive Oil	|	2	tbsp	|	 $0.20 	|	240
-Vegetable Broth	|	0.5	cube	|	 $0.04 	|	3
-Onion	|	1	onion	|	 $1.00 	|	44
-Carrots	|	1	carrot	|	 $0.11 	|	10
-Green Onion	|	4	green onion	|	 $0.34 	|	20
-Eggs 	|	1	egg	|	 $0.11 	|	72
-Total	|	---		|	 $7.69 	|	2554
-Total/ Serving	|	---		|	 $1.54 	|	510.7
+<div class="c100 p12 big">
+  <span>12%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
+<div class="c100 p14 big">
+  <span>14% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-In total, that is $7.55 US dollars worth of ingredients and 2554 calories. For me this made 5 servings of Pad Thai- about $1.5 dollars and 511 calories per serving. 
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Rice Noodles	|	14	oz	|	 $2.69 	|	28g	|	322g	|	7g	|	1470 cal
+|	Honey	|	2	tbsp	|	 $0.44 	|	0g	|	35g	|	0g	|	120 cal
+|	Fish Sauce	|	3	tsp	|	 $0.29 	|	1g	|	1g	|	0g	|	15 cal
+|	Peanut Butter	|	3	tbsp	|	 $0.25 	|	11g	|	12g	|	24g	|	285 cal
+|	Rice Vinegar	|	2	tbsp	|	 $0.33 	|	0g	|	0g	|	0g	|	0 cal
+|	Soy Sauce	|	5	tbsp	|	 $1.00 	|	5g	|	5g	|	0g	|	75 cal
+|	Peanuts	|	0.25	cup	|	 $0.17 	|	7g	|	5g	|	14g	|	160 cal
+|	Lime	|	2	lime	|	 $0.58 	|	1g	|	14g	|	0g	|	40 cal
+|	Olive Oil	|	2	tbsp	|	 $0.20 	|	0g	|	0g	|	27g	|	240 cal
+|	Vegetable Broth	|	0.5	cube	|	 $0.04 	|	0g	|	1g	|	0g	|	3 cal
+|	Onion	|	1	onion	|	 $1.00 	|	2g	|	14g	|	0g	|	44 cal
+|	Carrots	|	1	carrot	|	 $0.11 	|	1g	|	6g	|	0g	|	25 cal
+|	Green Onion	|	4	green onion	|	 $0.34 	|	4g	|	8g	|	0g	|	20 cal
+|	Eggs 	|	1	egg	|	 $0.11 	|	6g	|	0g	|	5g	|	72 cal
+|	Total	|	-	-	|	 $7.55 	|	65g	|	422g	|	77g	|	2569 cal
+|	Total/Meal	|	---	---	|	 $1.51 	|	13g	|	84g	|	15g	|	514 cal
+
+In total, that is $7.55 US dollars worth of ingredients and 2569 calories. For me this made 5 servings of Pad Thai- about $1.5 dollars and 514 calories per serving. 
 
 <h2> Step 1 </h2>
 
