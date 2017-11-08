@@ -62,6 +62,10 @@ Protein
 </div>
 Fat
 
+<br>
+<br />
+
+  
 <h2> Step 1 </h2>
 
 On the bright side, this is a really easy dish to make. Just empty out your lettuce/slaw mix (or chop your ingredients) into a bowl and squeeze the juice of half of a lemon over the mixture. Use a spoon to give it a quick toss. 
