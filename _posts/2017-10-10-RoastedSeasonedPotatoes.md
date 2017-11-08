@@ -19,17 +19,52 @@ image:
 I debated with myself about whether or not I wanted to post this recipe. Its relatively simple, and my gut says that most people know how to roast some potatoes... right? Either way, after being told the millionth time how delicious these smelled coming out of the oven I decided to share the not-so-secret secret recipe. 
 
 I decided not to include photos of the ingredients for this recipe because it should really be changed to suit your individual tastes. The ingredients I used and their relative costs are below:
+<div class="c100 p73 big">
+  <span>73% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Potato	|	4	potato	|	 $3.20 	|	691
-Olive Oil	|	2	tbsp	|	 $0.20 	|	240
-Salt	|	2	tsp	|	 $0.02 	|	0
-Pepper	|	2	tsp	|	 $0.06 	|	0
-Thyme	|	2	tsp	|	 $0.10 	|	0
-Paprika	|	2	tsp	|	 $0.06 	|	0
-Total	|	---		|	 $3.64 	|	931
-Total /Serving	|	---		|	 $0.73 	|	186.2
+<div class="c100 p9 big">
+  <span>9%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p19 big">
+  <span>19% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Potato	|	4	potato	|	 $3.20 	|	12g	|	104g	|	0g	|	691 cal
+|	Olive Oil	|	2	tbsp	|	 $0.20 	|	0g	|	0g	|	27g	|	240 cal
+|	Salt	|	2	tsp	|	 $0.02 	|	0g	|	0g	|	0g	|	0 cal
+|	Pepper	|	2	tsp	|	 $0.06 	|	0g	|	0g	|	0g	|	2 cal
+|	Thyme	|	2	tsp	|	 $0.10 	|	0g	|	0g	|	0g	|	2 cal
+|	Paprika	|	2	tsp	|	 $0.06 	|	1g	|	2g	|	1g	|	12 cal
+|	Total	|	-	-	|	 $3.64 	|	13g	|	107g	|	28g	|	947 cal
+|	Total/Meal	|	---	---	|	 $0.73 	|	3g	|	21g	|	6g	|	189 cal
+
 
 Since I served these alongside [week 5 meal prep](http://underwriteyourlife.com/meal%20prep/Week5/), this made 5 servings of just over 100 grams each. If you are looking for this to be a more substantial meal all on its own, then I suggest increase the number of potatoes. 
 
