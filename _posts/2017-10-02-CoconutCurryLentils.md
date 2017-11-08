@@ -21,6 +21,40 @@ Here are the ingredients you'll need to cook this dish! All together it made 6.5
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Coconut Lentils/Coconut Lentils Ingredients RESIZED.jpg">
 	<figcaption>Coconut Curry Lentils Final Product and Ingredient List</figcaption>
 </figure>
+<div class="c100 p79 big">
+  <span>79% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p12 big">
+  <span>12%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p9 big">
+  <span>9% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
 
 **Ingredient** | **Amount** | **Cost** |   **Calories**
 |:------------- |:-------------:| :-----:|   -----:|
