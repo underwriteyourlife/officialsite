@@ -10,6 +10,15 @@ image:
 
 # Cole Slaw
 
+<link rel="stylesheet" href="css/circle.css">
+<div class="c100 p25">
+  <span>25%</span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
 All I can say is that I guess I cut too many corners when it came to making this Cole Slaw inspried by [Robert Irving](http://www.foodnetwork.com/recipes/robert-irvine/cole-slaw-recipe0-1947123). I served it as a side dish to my [Zucchini Boats]() but honestly I ended up throwing it out most days around lunchtime. Luckily leftover halloween candy was a nice replacement. 
 
 If you were going to take a stab at fixing where I went wrong, I would say the best place to start would be using more sugar, a real mayonnaise (not Miracle Whip), and avoiding the Broccoli Slaw. 
