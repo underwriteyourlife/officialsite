@@ -12,7 +12,7 @@ image:
 
 <img src="{{ site.url }}/images/Meal Prep/Week 7/MedVeg Wraps/4.5 Finished Product3.jpg">
 
-This is a lunch box that I ate for about a month before I began meal-prepping. I didn't use any specific recipe, instead I just kinda used what sounded good and what was available at Trader Joe (I don't work for Trader Joes, I promise!). I've made this recipe using chicken thighs but ultimately with the hummus and tzatziki it was just too expensive all combined, and when push comes to shove I will pick sauces over meat any day. 
+This is a lunch box that I ate for about a month before I began meal-prepping. I didn't use any specific recipe, instead I just kind of used what sounded good and what was available at Trader Joe (I don't work for Trader Joes, I promise!). I've made this recipe using chicken thighs but ultimately with the hummus and tzatziki it was just too expensive all combined, and when push comes to shove I will pick sauces over meat any day. 
 
 Regardless, this meal is a staple in my recipe excel-sheet and I'm excited to pass it along!
 [Click here](http://underwriteyourlife.com/meal%20prep/Week7Evaluation/) to read more about how the lunch box held up over Week 7. 
@@ -22,19 +22,54 @@ Regardless, this meal is a staple in my recipe excel-sheet and I'm excited to pa
   <img src="{{ site.url }}/images/Meal Prep/Week 7/MedVeg Wraps/0.5 Finished Product4.jpg">
 	<figcaption> Mediterranean Veggie Wrap Ingredients and Final Product </figcaption>
 </figure>
+<div class="c100 p67 big">
+  <span>67% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Small Flour Tortillas	|	10	tortilla	|	2.99	|	1100
-Hummus	|	10	tbsp	|	1.25	|	350
-Tzatziki	|	10	tbsp	|	1.25	|	150
-Tomato	|	4	tomato	|	1.16	|	140
-Raisins	|	0.5	cup	|	0.57	|	240
-TJ Lettuce Mix	|	5	cup	|	2.49	|	75
-Eggs 	|	5	egg	|	0.54	|	360
-Baby Carrots	|	10	oz	|	2.49	|	350
-Total	|	---		|	12.73	|	2765.00
-Total/Meal	|	---		|	2.55	|	553
+<div class="c100 p16 big">
+  <span>16%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p16 big">
+  <span>16% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Small Flour Tortillas	|	10	tortilla	|	 $2.99 	|	30g	|	180g	|	30g	|	1100 cal
+|	Hummus	|	10	tbsp	|	 $1.25 	|	10g	|	30g	|	25g	|	400 cal
+|	Tzatziki	|	10	tbsp	|	 $1.25 	|	5g	|	10g	|	10g	|	150 cal
+|	Tomato	|	4	tomato	|	 $1.16 	|	4g	|	8g	|	4g	|	140 cal
+|	Raisins	|	0.5	cup	|	 $0.57 	|	2g	|	64g	|	0g	|	240 cal
+|	TJ Lettuce Mix	|	5	cup	|	 $1.66 	|	3g	|	15g	|	0g	|	75 cal
+|	Eggs 	|	5	egg	|	 $0.54 	|	31g	|	2g	|	25g	|	360 cal
+|	Baby Carrots	|	10	oz	|	 $2.49 	|	10g	|	80g	|	0g	|	350 cal
+|	Total	|	-	-	|	 $11.89 	|	95g	|	389g	|	94g	|	2815 cal
+|	Total/Meal	|	---	---	|	 $2.38 	|	19g	|	78g	|	19g	|	563 cal
+
 
 This made me 5 lunch boxes for the week!
 
