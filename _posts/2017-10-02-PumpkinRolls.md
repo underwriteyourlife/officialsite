@@ -20,29 +20,64 @@ So, bear with me until you can try them for yourself and understand why this rec
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Pumpkin Rolls (above) RESIZED.jpg">
 	<figcaption>Close-up and Above photos of the Pumpkin Rolls</figcaption>
 </figure>
+<div class="c100 p79 big">
+  <span>79% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p12 big">
+  <span>12%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p9 big">
+  <span>9% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
 
 Here are the ingredients you'll need to cook these suckers! All together it made 24 rolls, or 6 servings of 4 rolls each. It was actually perfect for this week's meal prep, because all together I had exactly 6 "breakfasts", 6 lunches, and 6 dinners made. I put "breakfast" in quotations because while these rolls were intended to be my breakfast, they definitely did not make it that long. That is to say... I might've eaten them all too quickly. 
 
 Anyhoo...
 
-Let's take a gander at making these fluffy gods:
-
 <img src="{{ site.url }}/images/Meal Prep/Week 4/Pumpkin Rolls/Pumpkin Roll Ingredients RESIZED.jpg">
 
 The only ingredient that is not pictured is some pumpkin-spiced cream cheese I picked up when I was at Trader Joe's. It's not necessary, I just couldn't resist adding it in at the last minute. 
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Flour	|3	cups	| $0.28 |	1320
-Salt	|2	tsp	| $0.02 |	0
-Sugar	|12	tsp	| $0.05 |	180
-Margarine|	2	tbsp	| $0.06 |	200
-Active Dry Yeast|	1	packet	| $0.33 |	0
-Eggs |	2	eggs|	 $0.22 |	144
-Pureed Pumpkin|	0.5	cup	| $0.48 |	50
-TJ Pumpkin Cream Cheese	|3	tbsp|	 $0.56 |	105
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Flour	|	3	cup	|	 $0.28 	|	36g	|	264g	|	0g	|	1320 cal
+|	Salt	|	2	tsp	|	 $0.02 	|	0g	|	0g	|	0g	|	0 cal
+|	Sugar	|	12	tsp	|	 $0.05 	|	0g	|	50g	|	0g	|	180 cal
+|	Margarine	|	2	tbsp	|	 $0.06 	|	0g	|	0g	|	17g	|	200 cal
+|	Active Dry Yeast	|	1	packet	|	 $0.33 	|	3g	|	3g	|	0g	|	21 cal
+|	Eggs 	|	2	egg	|	 $0.22 	|	13g	|	1g	|	10g	|	144 cal
+|	Pureed Pumpkin	|	0.5	cup	|	 $0.48 	|	1g	|	10g	|	2g	|	50 cal
+|	TJ Pumpkin Cream Cheese	|	3	tbsp	|	 $0.56 	|	0g	|	9g	|	8g	|	105 cal
+|	Total	|	-	-	|	 $2.00 	|	53g	|	337g	|	37g	|	2020 cal
+|	Total/Roll	|	---	---	|	 $0.08 	|	2g	|	14g	|	2g	|	84 cal
 
-In total, that is $2.00 dollars of ingredients and 1999 calories- meaning each roll costs about .08 cents and only 83 calories! So eat up you hungry, hungry, basic bakers. 
+
+In total, that is $2.00 dollars of ingredients and 2020 calories- meaning each roll costs about .08 cents and only 83 calories! So eat up you hungry, hungry, basic bakers. 
 
 <h2> Step 1 </h2>
 
