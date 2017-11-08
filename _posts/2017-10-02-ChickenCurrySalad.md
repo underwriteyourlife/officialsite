@@ -24,6 +24,40 @@ If you serve it with Wheat Thins, or another type of chip, that will increase yo
   <img src="{{ site.url }}/images/Meal Prep/Week 4/Chicken Curry Salad/Chicken Curry Salad Ingredients RESIZED.jpg">
 	<figcaption>Chicken Curry Salad Final Product and Ingredient List</figcaption>
 </figure>
+<div class="c100 p40 big">
+  <span>40% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p52 big">
+  <span>52%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p8 big">
+  <span>8% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
 
 **Ingredient** | **Amount** | **Cost (USD)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** |  **Calories (kcal)**|
 |:------------ |:----------:| --------------:| ---------------:| -------------:| -----------:| -------------------:|
