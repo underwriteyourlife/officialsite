@@ -10,7 +10,7 @@ image:
 
 # Zucchini Boats
 
-I have made a cheaper version of these zucchini boats in the past by just hollowing out a zucchini and filling its insides with cheese/pasta sauce to make a delicious dinner. However, I knew I could take it up a knotch. In all honesty, this recipe is kinda like the kitchen sink of recipes, where I just added in whatever I had sitting around in my pantry- but the results were suprisingly delicious!
+I have made a cheaper version of these zucchini boats in the past by just hollowing out a zucchini and filling its insides with cheese/pasta sauce to make a delicious dinner. However, I knew I could take it up a notch. In all honesty, this recipe is like the kitchen sink of recipes, where I just added in whatever I had sitting around in my pantry- but the results were surprisingly delicious!
 
 I didn't end up using the insides of the zucchini and squashes in the mixture (because I am not a huge fan of the taste) but you can add these back into the filling to suit your preferences. 
 
@@ -19,23 +19,58 @@ I didn't end up using the insides of the zucchini and squashes in the mixture (b
 	<img src="{{ site.url }}/images/Meal Prep/Week 8/Zucchini Boats/0.5 Final.jpg">
 	<figcaption>  Zucchini Boat Ingredients and Final Product </figcaption>
 </figure>
+<div class="c100 p39 big">
+  <span>39% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost (USD)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** |  **Calories (kcal)**|
-|:------------ |:----------:| --------------:| ---------------:| -------------:| -----------:| -------------------:|
-Zucchini	|	3	zucchini	|	 $2.99 	|	7g	|	18g	|	2g	|	120 cal
-Yellow Squash	|	2	squash	|	 $2.29 	|	5g	|	13g	|	1g	|	140 cal
-Olive Oil	|	2	tbsp	|	 $0.20 	|	0g	|	0g	|	27g	|	240 cal
-Salt	|	5	tsp	|	 $0.06 	|	0g	|	0g	|	0g	|	0 cal
-Pepper	|	5	tsp	|	 $0.14 	|	0g	|	0g	|	0g	|	5 cal
-Tomato	|	2	tomato	|	 $0.58 	|	2g	|	4g	|	2g	|	70 cal
-Hummus	|	2	tbsp	|	 $0.25 	|	2g	|	6g	|	5g	|	80 cal
-Panko	|	0.5	cup	|	 $0.31 	|	3g	|	24g	|	1g	|	110 cal
-Roasted Garlic Marinara Sauce	|	1.5	cup	|	 $1.00 	|	6g	|	30g	|	15g	|	270 cal
-Red Onion	|	0.5	onion	|	 $0.50 	|	1g	|	6g	|	0g	|	25 cal
-Basil	|	1	tsp	|	 $0.20 	|	0g	|	0g	|	0g	|	2 cal
-Light Shredded Cheese	|	10	oz	|	 $3.33 	|	50g	|	0g	|	30g	|	450 cal
-Total	|	---| $11.84 |	76g |	101g	|	82g	|	1512 cal
-Total/Meal	|---|	 $2.37	|	15g	|	20g	|	16g	|	302 cal
+<div class="c100 p29 big">
+  <span>29%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p32 big">
+  <span>32% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Zucchini	|	3	zucchini	|	 $2.99 	|	7g	|	18g	|	2g	|	120 cal
+|	Yellow Squash	|	2	squash	|	 $2.29 	|	5g	|	13g	|	1g	|	140 cal
+|	Olive Oil	|	2	tbsp	|	 $0.20 	|	0g	|	0g	|	27g	|	240 cal
+|	Salt	|	5	tsp	|	 $0.06 	|	0g	|	0g	|	0g	|	0 cal
+|	Pepper	|	5	tsp	|	 $0.14 	|	0g	|	0g	|	0g	|	5 cal
+|	Tomato	|	2	tomato	|	 $0.58 	|	2g	|	4g	|	2g	|	70 cal
+|	Hummus	|	2	tbsp	|	 $0.25 	|	2g	|	6g	|	5g	|	80 cal
+|	Panko	|	0.5	cup	|	 $0.31 	|	3g	|	24g	|	1g	|	110 cal
+|	Roasted Garlic Marinara Sauce	|	1.5	cup	|	 $1.00 	|	6g	|	30g	|	15g	|	270 cal
+|	Red Onion	|	0.5	onion	|	 $0.50 	|	1g	|	6g	|	0g	|	25 cal
+|	Basil	|	1	tsp	|	 $0.20 	|	0g	|	0g	|	0g	|	2 cal
+|	Light Shredded Cheese	|	10	oz	|	 $3.33 	|	50g	|	0g	|	30g	|	450 cal
+|	Total	|	-	-	|	 $11.84 	|	76g	|	101g	|	82g	|	1512 cal
+|	Total/Meal	|	---	---	|	 $2.37 	|	15g	|	20g	|	16g	|	302 cal
+
 
 With one zucchini or squash per meal, this creates 5 lunches for $2.37 per lunch. Just be careful- it is pretty low calorie because of the vegetables- be sure you are pairing this with something more filling, otherwise your stomach will be growling by 3pm!
 
