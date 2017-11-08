@@ -10,7 +10,6 @@ image:
 
 # Cole Slaw
 
-<link rel="stylesheet" href="underwriteyourlife/css/circle.css">
 <div class="c100 p25">
   <span>25%</span>
   <div class="slice">
