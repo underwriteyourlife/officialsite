@@ -19,23 +19,58 @@ I combined butter, potatoes, corn, and cheese to make a deceptively delicious si
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Cheesy Potato and Corn/0.5 Closeup1.jpg">
 	<figcaption> Recipe Ingredients and Final Product </figcaption>
 </figure>
+<div class="c100 p78 big">
+  <span>78% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Potato	|	6	potato	|	4.80	|	1020
-Margarine	|	1	tbsp	|	0.03	|	100
-Light Shredded Cheese	|	2.6	oz	|	0.86	|	117
-Corn	|	1.5	cup	|	0.68	|	240
-Total	|	---		|	6.37	|	1477
-Total/Meal	|	---		|	1.06	|	246
+<div class="c100 p15 big">
+  <span>15%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p7 big">
+  <span>7% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Potato	|	6	potato	|	 $4.80 	|	18g	|	156g	|	0g	|	1020 cal
+|	Margarine	|	1	tbsp	|	 $0.03 	|	0g	|	0g	|	8g	|	100 cal
+|	Light Shredded Cheese	|	2.6	oz	|	 $0.86 	|	13g	|	0g	|	8g	|	117 cal
+|	Corn	|	1.5	cup	|	 $0.68 	|	6g	|	33g	|	2g	|	240 cal
+|	Total	|	-	-	|	 $6.37 	|	37g	|	189g	|	18g	|	1477 cal
+|	Total/Meal	|	---	---	|	 $1.06 	|	6g	|	32g	|	3g	|	246 cal
+
 
 This made me 6 servings of ~1 cup each.
 
 <h2> Step 1 </h2>
 
-The first step for me is always to wash and weigh my potatoes. I like to know exactly how many grams of Russet Potatoes I use so I can get a more accurate calorie count, however, its definitely not necessary and you can just estimate about 170 kcalories for each potato. 
+The first step for me is always to wash and weigh my potatoes. I like to know exactly how many grams of Russet Potatoes I use so I can get a more accurate calorie count, however, it's definitely not necessary and you can just estimate about 170 kcal for each potato. 
 
-Once they are weighed, go ahead and scallop the potatos (use a knife to cut them across the short-edge to make circles). 
+Once they are weighed, go ahead and scallop the potatoes (use a knife to cut them across the short-edge to make circles). 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Cheesy Potato and Corn/1 Weighed.jpg">
@@ -81,7 +116,7 @@ Take the pan off heat and sprinkle your cheese on top of the potatoes, using you
 	<figcaption> Adding corn and cheese to the potatoes </figcaption>
 </figure>
 
-Thats it! Its a quick and easy side dish that will have you looking forward to eating your dinner every night of meal prep! In fact, once I'm done writing this I'm going to go home and eat some myself!
+That's it! Its a quick and easy side dish that will have you looking forward to eating your dinner every night of meal prep! In fact, once I'm done writing this I'm going to go home and eat some myself!
 
 <figure class="third">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Cheesy Potato and Corn/5 Closeup4.jpg">
