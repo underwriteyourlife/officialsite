@@ -21,26 +21,58 @@ Despite all this, I was actually pleasantly surprised about how these turned out
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Dumplings/0.5 Finished Product2.jpg">
 	<figcaption>Dumpling Ingredients and Final Product</figcaption>
 </figure>
+<div class="c100 p46 big">
+  <span>46% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Flour	|	2.5	cup	|	 $0.23 	|	1100
-Boiling Water	|	1 cup	|	 $0.00 	|	0
-Water	|	~.5 cup	|	 $0.00 	|	0
-Green Onion	|	3	green onion	|	 $0.26 	|	15
-Ground Pork	|	1	pound	|	 $4.50 	|	700
-Fresh Ginger	|	0.25	inch	|	 $0.05 	|	0
-Mirin	|	2	tbsp	|	 $0.40 	|	70
-Napa Cabbage	|	3	leaf	|	 $1.20 	|	15
-Salt	|	2	tsp	|	 $0.02 	|	0
-Pepper	|	2	tsp	|	 $0.06 	|	0
-Fresh Garlic	|	3	clove	|	 $0.10 	|	0
-Sesame Oil	|	0.33	tbsp	|	 $0.12 	|	43
-Vegetable Oil	|	7	tbsp	|	 $0.36 	|	910
-Soy Sauce	|	3	tbsp	|	 $0.60 	|	45
-Rice Vinegar	|	3	tbsp	|	 $0.50 	|	0
-Total	|	---		|	 $8.41 	|	2898
-Total/Meal	|	---		|	 $0.28 	|	97
+<div class="c100 p20 big">
+  <span>20%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p34 big">
+  <span>34% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Flour	|	2.5	cup	|	 $0.23 	|	30g	|	220g	|	0g	|	1100 cal
+|	Green Onion	|	3	green onion	|	 $0.26 	|	3g	|	6g	|	0g	|	15 cal
+|	Ground Pork	|	1	pound	|	 $4.50 	|	70g	|	0g	|	90g	|	700 cal
+|	Fresh Ginger	|	0.25	inch	|	 $0.05 	|	0g	|	0g	|	0g	|	4 cal
+|	Mirin	|	2	tbsp	|	 $0.40 	|	0g	|	18g	|	0g	|	70 cal
+|	Napa Cabbage	|	3	leaf	|	 $1.20 	|	1g	|	3g	|	0g	|	15 cal
+|	Salt	|	2	tsp	|	 $0.02 	|	0g	|	0g	|	0g	|	0 cal
+|	Pepper	|	2	tsp	|	 $0.06 	|	0g	|	0g	|	0g	|	2 cal
+|	Fresh Garlic	|	3	clove	|	 $0.10 	|	1g	|	3g	|	0g	|	12 cal
+|	Sesame Oil	|	0.33	tbsp	|	 $0.12 	|	0g	|	0g	|	4g	|	43 cal
+|	Vegetable Oil	|	7	tbsp	|	 $0.36 	|	0g	|	0g	|	95g	|	910 cal
+|	Soy Sauce	|	3	tbsp	|	 $0.60 	|	3g	|	3g	|	0g	|	45 cal
+|	Rice Vinegar	|	3	tbsp	|	 $0.50 	|	0g	|	0g	|	0g	|	0 cal
+|	Total	|	-	-	|	 $8.41 	|	107g	|	253g	|	190g	|	2916 cal
+|	Total/Meal	|	---	---	|	 $0.28 	|	4g	|	8g	|	6g	|	97 cal
 
 I have to admit, I didn't count how many dumplings were made. However, I divided the dough into 4 sections and my best guess is that I got 10 dumplings from each section. Either way, I decided to stay conservative and calculate based on 30 dumplings. With that assumption, its about .28 cents and 97 calories per dumpling. 
 
