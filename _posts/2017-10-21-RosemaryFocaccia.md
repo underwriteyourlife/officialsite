@@ -18,6 +18,40 @@ However, my ridiculously hung-over self did not stop to think that I was also pl
 Anyways, here's how I went about baking these beauts-
 
 <img src="{{ site.url }}/images/Meal Prep/Week6/Rosemary Focaccia/0 Ingredients.jpg">
+<div class="c100 p76 big">
+  <span>76% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p10 big">
+  <span>10%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p15 big">
+  <span>15% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
 
 |	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
 |	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
