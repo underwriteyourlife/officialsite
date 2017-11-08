@@ -30,7 +30,7 @@ Rest assured, leaving your cooked chicken for a week in the fridge will not make
 
 The zucchini boats and cole slaw were another story. In all honesty, I can't really speak to how well the cole slaw held up over the course of the week because I didn't eat a lot of it. I can attest that it did get more vinegar-y as the week went on but the slaw itself held its crunch pretty well. 
 
-The boats got a little soggy from waiting in the fridge all week, but the flavor was still pretty delicious. I loved the mixture of panko and sauce- the texture and flavor made me feel like I was eating ground beef, which was a pleasant surprise. It didn't occur to me to use ground beef in this dish, but if I ever re-make it then I think I will do that next time. What was also a pleasantt surprise was the fact that the hummus flavor wasn't too overwhelming and didn't throw off the balance of the dish! Overall, I was pretty impressed. 
+The boats got a little soggy from waiting in the fridge all week, but the flavor was still pretty delicious. I loved the mixture of panko and sauce- the texture and flavor made me feel like I was eating ground beef, which was a pleasant surprise. It didn't occur to me to use ground beef in this dish, but if I ever re-make it then I think I will do that next time. What was also a pleasant surprise was the fact that the hummus flavor wasn't too overwhelming and didn't throw off the balance of the dish! Overall, I was pretty impressed. 
 
 <figure class="third">
   <img src="{{ site.url }}/images/Meal Prep/Week 8/Evaluation/4.jpg">
