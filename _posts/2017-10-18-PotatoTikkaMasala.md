@@ -26,32 +26,70 @@ All-in-all, while I am categorizing this as a ["recipe failure"](http://underwri
 	<figcaption>Tikka Masala Ingredients and Seasoning Packet</figcaption>
 </figure>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Potato|	6	potato|	 $4.80 |	1100
-Olive Oil	|1	tbsp	| $0.10 |	120
-Salt	|2	tsp	 |$0.02 	|0
-Garam Masala|	2	tsp	 |$0.40 |	0
-Cumin	|2	tsp	 $0.21 |	0
-Coriander	|1	tsp	| $0.20 |	0
-Paprika	|1	tsp	| $0.03 |	0
-Tumeric	|1	tsp	| $0.20 |	0
-Pepper	|1	tsp	| $0.03 |	0
-Cayenne Pepper|	0.25	tsp	| $0.03 |	0
-Cardamom	|0.125	tsp	| $0.03 |	0
-Margarine	|2	tbsp	| $0.06 |	200
-Onion	|2	onion	| $2.00 |	88
-Tomato Paste|	1	tbsp	| $0.08 |	15
-Fresh Garlic|	4	clove	| $0.14 |	0
-Fresh Ginger|	0.5	inch	| $0.10 |	0
-Tomato|	5	tomato	| $1.45 |	175
-Full Fat Coconut Milk|	1.5	cup	| $1.49 |	660
-Chicken Broth	|0.5	cup	| $0.31 |	8
-Cilantro|	3	leaf	| $0.30 |	0
-White Rice|	2.5	cup	| $1.80 |	1500
-Carrots	|3	carrot	| $0.33 |	30
-Total | --- |14.11 |3895.5
-Total/meal| --- |  282| 779.1
+As you can see from the photo above, I opted to buy a pre-mixed seasoning packet since the individual seasonings were more expensive. However, in the ingredient list below you can see the spices I would have used if I had not opted for this route. 
+<div class="c100 p77 big">
+  <span>77% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p9 big">
+  <span>9%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p14 big">
+  <span>14% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Potato	|	6	potato	|	 $4.80 	|	18g	|	156g	|	0g	|	1100 cal
+|	Olive Oil	|	1	tbsp	|	 $0.10 	|	0g	|	0g	|	14g	|	120 cal
+|	Salt	|	2	tsp	|	 $0.02 	|	0g	|	0g	|	0g	|	0 cal
+|	Garam Masala	|	2	tsp	|	 $0.40 	|	1g	|	2g	|	1g	|	12 cal
+|	Cumin	|	2	tsp	|	 $0.21 	|	1g	|	2g	|	1g	|	16 cal
+|	Coriander	|	1	tsp	|	 $0.20 	|	0g	|	0g	|	0g	|	2 cal
+|	Paprika	|	1	tsp	|	 $0.03 	|	0g	|	1g	|	0g	|	6 cal
+|	Tumeric	|	1	tsp	|	 $0.20 	|	0g	|	1g	|	0g	|	8 cal
+|	Pepper	|	1	tsp	|	 $0.03 	|	0g	|	0g	|	0g	|	1 cal
+|	Cayenne Pepper	|	0.25	tsp	|	 $0.03 	|	0g	|	0g	|	0g	|	2 cal
+|	Cardamom	|	0.125	tsp	|	 $0.03 	|	0g	|	0g	|	0g	|	1 cal
+|	Margarine	|	2	tbsp	|	 $0.06 	|	0g	|	0g	|	17g	|	200 cal
+|	Onion	|	2	onion	|	 $2.00 	|	4g	|	28g	|	0g	|	88 cal
+|	Tomato Paste	|	1	tbsp	|	 $0.08 	|	1g	|	3g	|	0g	|	15 cal
+|	Fresh Garlic	|	4	clove	|	 $0.14 	|	1g	|	4g	|	0g	|	16 cal
+|	Fresh Ginger	|	0.5	inch	|	 $0.10 	|	0g	|	0g	|	0g	|	8 cal
+|	Tomato	|	5	tomato	|	 $1.45 	|	5g	|	10g	|	5g	|	175 cal
+|	Full Fat Coconut Milk	|	1.5	cup	|	 $1.69 	|	6g	|	6g	|	66g	|	660 cal
+|	Chicken Broth	|	0.5	cup	|	 $0.31 	|	0g	|	0g	|	0g	|	8 cal
+|	Cilantro	|	3	leaf	|	 $0.30 	|	0g	|	0g	|	0g	|	3 cal
+|	White Rice	|	2.5	dry cups	|	 $1.80 	|	30g	|	360g	|	0g	|	1500 cal
+|	Carrots	|	3	carrot	|	 $0.33 	|	2g	|	18g	|	0g	|	75 cal
+|	Total	|	-	-	|	 $14.31 	|	68g	|	592g	|	104g	|	4015 cal
+|	Total/Day	|	--	--	|	 $2.86 	|	14g	|	118g	|	21g	|	803 cal
+|	Total/Meal	|	---	---	|	 $2.86 	|	14g	|	118g	|	21g	|	803 cal
+
 
 
 <h2> Step 1 </h2>
@@ -92,7 +130,8 @@ Once they are peeled, chop them into bite-sized pieces.
 
 After the potatoes are chopped, melt 1 tbsp of butter in a large skillet. Traditional Tikka Masala, from what I have read online, uses a clarified butter. However, since I didn't have any handy, I went ahead and used the butter in my refrigerator. This probably contributed to the fact that my finished product tasted less authentic than I would have liked. 
 
-Once the butter is slightly melted, add the potatoes, stir, then season with your Tikka Masala seasoning mix or seasonign (check ingredients for full list). 
+Once the butter is slightly melted, add the potatoes, stir, then season with your Tikka Masala seasoning mix or seasoning (check ingredients for full list). 
+
 <figure class="third">
   <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/4 Butter.jpg">
   <img src="{{ site.url }}/images/Meal Prep/Week6/Potato Tikka Masala/4.3 Butter Potatoes.jpg">
