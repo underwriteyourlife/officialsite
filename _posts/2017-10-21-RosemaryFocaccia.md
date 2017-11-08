@@ -19,18 +19,19 @@ Anyways, here's how I went about baking these beauts-
 
 <img src="{{ site.url }}/images/Meal Prep/Week6/Rosemary Focaccia/0 Ingredients.jpg">
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Flour	|2	cup|	 $0.18| 	880
-Active Dry Yeast|	1	packet	| $0.33 |	0
-Olive Oil|	3	tbsp	| $0.30 |	360
-Rosemary	|3	leafs	| $0.34 |	0
-Salt|	4	tsp|	 $0.05| 	0
-Honey|	2	tbsp	| $0.44 |	120
-Total | --- |$1.64 |1360
-Total/slice| --- | $0.16| 136
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Flour	|	2	cup	|	 $0.18 	|	24g	|	176g	|	0g	|	880 cal
+|	Active Dry Yeast	|	1	packet	|	 $0.33 	|	3g	|	3g	|	0g	|	21 cal
+|	Olive Oil	|	3	tbsp	|	 $0.30 	|	0g	|	0g	|	41g	|	360 cal
+|	Rosemary	|	3	leafs	|	 $0.34 	|	0g	|	0g	|	0g	|	2 cal
+|	Salt	|	4	tsp	|	 $0.05 	|	0g	|	0g	|	0g	|	0 cal
+|	Honey	|	2	tbsp	|	 $0.44 	|	0g	|	35g	|	0g	|	120 cal
+|	Total	|	-	-	|	 $1.64 	|	27g	|	214g	|	41g	|	1383 cal
+|	Total/Meal	|	---	---	|	 $0.16 	|	3g	|	21g	|	4g	|	138 cal
 
-In total, this made 10 servings of about 2in-by-4in slices. Perfect to go along side a dish! Plus, the salt content helps prevent it from going bad, so they'll last all week. 
+
+In total, this made 10 servings of about 2in-by-4in slices. Perfect to go alongside a dish! Plus, the salt content helps prevent it from going bad, so they'll last all week. 
 
 <h2> Step 1 </h2>
 
