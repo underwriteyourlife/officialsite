@@ -231,7 +231,7 @@
   float: left;
   margin: 0 0.1em 0.1em 0;
   color: #c6ff00;
-  background-color: #cccccc;
+  background-color: #c6ff00;
 }
 .c100 *,
 .c100 *:before,
@@ -259,7 +259,7 @@
   width: 5em;
   line-height: 5em;
   font-size: 0.2em;
-  color: #cccccc;
+  color: #c6ff00;
   display: block;
   text-align: center;
   white-space: nowrap;
