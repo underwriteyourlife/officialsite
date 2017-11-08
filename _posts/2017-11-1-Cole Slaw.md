@@ -10,7 +10,7 @@ image:
 
 # Cole Slaw
 
-All I can say is that I guess I cut too many corners when it came to making this Cole Slaw inspried by [Robert Irving](http://www.foodnetwork.com/recipes/robert-irvine/cole-slaw-recipe0-1947123). I served it as a side dish to my [Zucchini Boats]() but honestly I ended up throwing it out most days around lunchtime. Luckily leftover halloween candy was a nice replacement. 
+All I can say is that I guess I cut too many corners when it came to making this Cole Slaw inspired by [Robert Irving](http://www.foodnetwork.com/recipes/robert-irvine/cole-slaw-recipe0-1947123). I served it as a side dish to my [Zucchini Boats]() but honestly I ended up throwing it out most days around lunchtime. Luckily leftover Halloween candy was a nice replacement. 
 
 If you were going to take a stab at fixing where I went wrong, I would say the best place to start would be using more sugar, a real mayonnaise (not Miracle Whip), and avoiding the Broccoli Slaw. 
 
@@ -19,6 +19,41 @@ If you were going to take a stab at fixing where I went wrong, I would say the b
 	<img src="{{ site.url }}/images/Meal Prep/Week 8/Cole Slaw/0.5 Final.jpg">
 	<figcaption> Cole Slaw Ingredients and Final Product </figcaption>
 </figure>
+<div class="c100 p78 big">
+  <span>78% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p9 big">
+  <span>9%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<div class="c100 p13 big">
+  <span>13% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
 
 |	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
 |	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
@@ -35,42 +70,10 @@ If you were going to take a stab at fixing where I went wrong, I would say the b
 |	Total	|	-	-	|	 $6.65 	|	13g	|	110g	|	19g	|	639 cal
 |	Total/Meal	|	---	---	|	 $1.33 	|	3g	|	22g	|	4g	|	128 cal
 
+
 This combination produced 5 servings of 1-cup of cole slaw each.  
 
-<div class="c100 p78 big">
-  <span>78% Carbs</span>
-  <div class="slice">
-    <div class="bar"></div>
-    <div class="fill"></div>
-  </div>
-</div>
 
-<div class="c100 p9 big">
-  <span>9% Protein</span>
-  <div class="slice">
-    <div class="bar"></div>
-    <div class="fill"></div>
-  </div>
-</div>
-
-<div class="c100 p13 big">
-  <span>13% Fat</span>
-  <div class="slice">
-    <div class="bar"></div>
-    <div class="fill"></div>
-  </div>
-</div>
-
-<br>
-<br />
-<br>
-<br />
-<br>
-<br />
-<br>
-<br />
-<br>
-<br />
 <h2> Step 1 </h2>
 
 On the bright side, this is a really easy dish to make. Just empty out your lettuce/slaw mix (or chop your ingredients) into a bowl and squeeze the juice of half of a lemon over the mixture. Use a spoon to give it a quick toss. 
