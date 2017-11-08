@@ -56,25 +56,26 @@ Here are the ingredients you'll need to cook this dish! All together it made 6.5
 <br>
 <br />
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Red Onion|	1	onions	| $1.00 |	88
-White Onion |1 onion |$.69| 44
-Fresh Garlic|	2	cloves	| $0.07 |	0
-Lentils|	2	cups	| $0.88 |	1440
-Sweet Potato	|1	medium|	 $1.00 	|150
-Carrots	|4	carrots|	 $0.45 |	40
-Curry Powder|	2.33	tbsp|	 $0.29 |	0
-Cloves|	0.25	tsp|	 $0.03 |	0
-Tomato	|6	tomatoes	| $1.74 |	210
-TJ Fire Roasted Tomato|	1.75	cup	| $1.69 |	88
-Vegetable Broth|	3	cubes |	 $0.24 |	15
-TJ Reduced Fat Coconut Milk|	1.5	cup	| $1.29 |	420
-White Rice|	3	cups	| $2.16 	|1800
-Cilantro	|2	stalks	| $0.20 |	0
-Green Onion|	2	|	 $0.17 |	5
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Onion	|	2	onion	|	 $2.00 	|	4g	|	28g	|	0g	|	88 cal
+|	Fresh Garlic	|	2	clove	|	 $0.07 	|	0g	|	2g	|	0g	|	8 cal
+|	Lentils	|	2	cup	|	 $0.88 	|	33g	|	73g	|	27g	|	1440 cal
+|	Sweet Potato	|	1	sweet potato	|	 $1.00 	|	2g	|	26g	|	0g	|	150 cal
+|	Carrots	|	4	carrot	|	 $0.45 	|	2g	|	23g	|	1g	|	100 cal
+|	Curry Powder	|	2	tbsp	|	 $0.25 	|	2g	|	7g	|	2g	|	36 cal
+|	Cloves	|	0.25	tsp	|	 $0.03 	|	0g	|	0g	|	0g	|	2 cal
+|	Tomato	|	6	tomato	|	 $1.74 	|	6g	|	12g	|	6g	|	210 cal
+|	TJ Fire Roasted Tomato	|	1.75	cup	|	 $1.69 	|	4g	|	18g	|	0g	|	88 cal
+|	Vegetable Broth	|	3	cube	|	 $0.24 	|	0g	|	3g	|	0g	|	15 cal
+|	TJ Reduced Fat Coconut Milk	|	1.5	cup	|	 $1.29 	|	6g	|	18g	|	42g	|	420 cal
+|	White Rice	|	3	dry cups	|	 $2.16 	|	36g	|	432g	|	0g	|	1800 cal
+|	Cilantro	|	2	leaf	|	 $0.20 	|	0g	|	0g	|	0g	|	2 cal
+|	Green Onion	|	2	green onion	|	 $0.17 	|	2g	|	4g	|	0g	|	10 cal
+|	Total	|	-	-	|	 $12.16 	|	97g	|	647g	|	77g	|	4368 cal
+|	Total/Meal	|	---	---	|	 $1.87 	|	15g	|	100g	|	12g	|	672 cal
 
-In total, that is $12.16 US dollars worth of ingredients and 4260.5 calories.
+In total it produced 7 meals of coconut curried lentils, costing $12.16 overall and $1.87 per meal. 
 
 <h2> Step 1 </h2>
 
