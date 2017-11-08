@@ -23,23 +23,57 @@ While I love baking, these rolls are by far the most fun for me to bake. I am no
 Here are the ingredients you'll need to make the savory rolls. All together it made 28 rolls, or 7 servings of 4 rolls each. For this week's [(Week 5) meal prep](http://underwriteyourlife.com/meal%20prep/Week5/), I actually only needed 5 servings, but I will never complain about having too many rolls. 
 
 <img src="{{ site.url }}/images/Meal Prep/Week 5/RosemaryRolls/Ingredients 50percent.jpg">
+<div class="c100 p77 big">
+  <span>77% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Honey	|	2	tbsp	|	 $0.44 	|	120
-Sugar	|	8	tsp	|	 $0.04 	|	120
-Olive Oil	|	2	tbsp	|	 $0.20 	|	240
-Almond Milk	|	0.75	cup	|	 $0.28 	|	23
-Rosemary	|	3	leafs	|	 $0.34 	|	0
-Salt	|	2	tsp	|	 $0.02 	|	0
-Margarine	|	4	tbsp	|	 $0.12 	|	400
-Active Dry Yeast	|	1	packet	|	 $0.33 	|	0
-Flour	|	3.25	cup	|	 $0.30 	|	1430
-Total	|	---		|	 $2.07 	|	2333
-Total/Roll	|	---		|	 $0.07 	|	83
+<div class="c100 p9 big">
+  <span>9%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
+<div class="c100 p14 big">
+  <span>14% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-In total, that is $2.07 dollars of ingredients and 2333 calories- meaning each roll costs about .07 cents and only 83 calories! They are eerily similar in calories to the [rolls I made last week](http://underwriteyourlife.com/recipe/PumpkinRolls/)... but I'll try not to overthink it. 
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Honey	|	2	tbsp	|	 $0.44 	|	0g	|	35g	|	0g	|	120 cal
+|	Sugar	|	8	tsp	|	 $0.04 	|	0g	|	34g	|	0g	|	120 cal
+|	Olive Oil	|	2	tbsp	|	 $0.20 	|	0g	|	0g	|	27g	|	240 cal
+|	Almond Milk	|	0.75	cup	|	 $0.28 	|	1g	|	2g	|	2g	|	23 cal
+|	Rosemary	|	3	leafs	|	 $0.34 	|	0g	|	0g	|	0g	|	2 cal
+|	Salt	|	2	tsp	|	 $0.02 	|	0g	|	0g	|	0g	|	0 cal
+|	Margarine	|	4	tbsp	|	 $0.12 	|	0g	|	0g	|	34g	|	400 cal
+|	Active Dry Yeast	|	1	packet	|	 $0.33 	|	3g	|	3g	|	0g	|	21 cal
+|	Flour	|	3.25	cup	|	 $0.30 	|	39g	|	286g	|	0g	|	1430 cal
+|	Total	|	-	-	|	 $2.07 	|	43g	|	359g	|	64g	|	2356 cal
+|	Total/Day	|	--	--	|	 $0.07 	|	2g	|	13g	|	2g	|	84 cal
+|	Total/Meal	|	---	---	|	 $0.07 	|	2g	|	13g	|	2g	|	84 cal
+
+In total, that is $2.07 dollars of ingredients and 2333 calories- meaning each roll costs about .07 cents and only 84 calories! They are eerily similar in calories to the [rolls I made last week](http://underwriteyourlife.com/recipe/PumpkinRolls/)... but I'll try not to overthink it. 
 
 <h2> Step 1 </h2>
 
