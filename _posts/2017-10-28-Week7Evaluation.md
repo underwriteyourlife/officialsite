@@ -16,7 +16,7 @@ I consider Week 7 to be a relatively successful week! Read on to see how each me
 
 One of the good things about this dish was that the originally strong flavor from the sesame oil settled down throughout the week. There were not very many other major changes, the noodles held their consistency well throughout the week and the flavor dulled to the point where it tasted more Chinese than Japanese. 
 
-As with most all potato dishes, the only noticeable change was that the potatoes increased in condensation throughout the week, but I dind't find that this affected the flavor. 
+As with most all potato dishes, the only noticeable change was that the potatoes increased in condensation throughout the week, but I didn't find that this affected the flavor. 
 
 <figure class="half">
   <img src="{{ site.url }}/images/Meal Prep/Week 7/Evaluation/Monday Lo Mein.jpg">
@@ -26,7 +26,7 @@ As with most all potato dishes, the only noticeable change was that the potatoes
 
 # [Mediterranean Veggie Wraps](http://underwriteyourlife.com/recipe/MediterraneanVeggieWraps/) 
 
-So the veggie wraps are a more interesting story in terms of their development throughout the week. One of the biggest changes that may happen to your wraps is them getting moist from the sauces and tomatoes. I was still able to pick up all of the wraps that were made with flour tortillas, however, the one wrap I made with corn tortillas immediately fell apart when I tried to eat it the saturday after I made it. 
+So the veggie wraps are a more interesting story in terms of their development throughout the week. One of the biggest changes that may happen to your wraps is them getting moist from the sauces and tomatoes. I was still able to pick up all of the wraps that were made with flour tortillas, however, the one wrap I made with corn tortillas immediately fell apart when I tried to eat it the Saturday after I made it. 
 
 While the wraps get a little wet and messy to handle (see below) I find that the flavors melt together more throughout the week and its a good meal to prep ahead of time. If you are especially concerned about the moisture, you can prepare the wraps the night before, however, that kinda defeats the point of prepping, doesn't it?
 
