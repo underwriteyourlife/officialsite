@@ -17,19 +17,53 @@ There's nothing better than a delicious dish that is crunchy, satisfying, and fu
   <img src="{{ site.url }}/images/Failures/ZucchiniFritters/Fritters in Oven 1200x600.jpg">
 	<figcaption>Unbaked and Oven-Baking Zucchini and Onion Fritters </figcaption>
 </figure>
+<div class="c100 p71 big">
+  <span>71% Carbs </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-**Ingredient** | **Amount** | **Cost** |   **Calories**
-|:------------- |:-------------:| :-----:|   -----:|
-Zucchini |	1	zucchini	| $1.15 |	35
-Onion	| 1	onion	| $1.00 |	44
-Panko	| 1	cup	 | $0.63 |	220
-Eggs |	2	egg	| $0.22 |	144
-Flour |	0.25	cup	| $0.02 |	110
-Cilantro |	3	leaf	| $0.30 |	0
-Total | --- | $3.31 | 553
-Total/Serving | --- | $.66  | 110
+<div class="c100 p20 big">
+  <span>20%Protein </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
 
-In total, that is $3.20 dollars worth of ingredients and 481 calories that creates 5 inedible servings of zucchini and onion fritters. Per serving, it would be .64 cents and 96 calories... if you could stomach it. 
+<div class="c100 p9 big">
+  <span>9% Fat </span>
+  <div class="slice">
+    <div class="bar"></div>
+    <div class="fill"></div>
+  </div>
+</div>
+
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+<br>
+<br />
+|	**Ingredients**	|	**Amount**		|	 **Cost (USD)** 	|	**Protein (g)**	|	**Carbs (g)**	|	**Fat (g)**	|	**Calories (kcal)**
+|	:----------	|	:----------:		|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 	|	 ---------: 
+|	Onion	|	1	onion	|	 $1.00 	|	2g	|	14g	|	0g	|	44 cal
+|	Panko	|	1	cup	|	 $0.63 	|	6g	|	48g	|	1g	|	220 cal
+|	Eggs 	|	2	egg	|	 $0.22 	|	13g	|	1g	|	10g	|	144 cal
+|	Flour	|	0.25	cup	|	 $0.02 	|	3g	|	22g	|	0g	|	110 cal
+|	Cilantro	|	3	leaf	|	 $0.30 	|	0g	|	0g	|	0g	|	3 cal
+|	Zucchini	|	1	zucchini	|	 $1.00 	|	2g	|	6g	|	1g	|	40 cal
+|	Total	|	-	-	|	 $3.16 	|	26g	|	91g	|	12g	|	561 cal
+|	Total/Meal	|	---	---	|	 $0.63 	|	5g	|	18g	|	2g	|	112 cal
+
+
+In total, that is $3.16 dollars worth of ingredients and 561 calories that creates 5 inedible servings of zucchini and onion fritters. Per serving, it would be .63 cents and 112 calories... if you could stomach it. 
 
 <h2> Step 1 </h2>
 
