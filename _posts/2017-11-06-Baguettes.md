@@ -101,7 +101,7 @@ Let the dough rest for 1 hour, until it has doubled in size.
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 9/Baguette/3 Rolled.jpg">
 	<img src="{{ site.url }}/images/Meal Prep/Week 9/Baguette/3.3 Unrested.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 9/Baguette/3.5 Rested.jpg">
+	<img src="{{ site.url }}/images/Meal Prep/Week 9/Baguette/Webp.net-resizeimage.jpg">
 	<figcaption>  Finished Dough </figcaption>
 </figure>
 
