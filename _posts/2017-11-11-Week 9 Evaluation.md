@@ -22,7 +22,7 @@ Overall, no complaints. The bread on the side did begin to get stiff (as usual) 
 	<figcaption> Lasagna on Monday and Thursday </figcaption>
 </figure>
 
-#[Cauliflower Green Thai Curry](http://underwriteyourlife.com/recipe/Cauliflower-Green-Thai-Curry/) 
+# [Cauliflower Green Thai Curry](http://underwriteyourlife.com/recipe/Cauliflower-Green-Thai-Curry/) 
 
 As with all my curries, the Cauliflower Thai Green Curry did get a little watery over the course of the week. Additionally, the white rice did get stiff. However, when I reheat over the stove top (or microwave, if that is your preference) everything softens up. I think letting this curry sit has actually made it more flavorful, and the additional condensation was good when reheating it because it gave something for the rice to soak up.
 
