@@ -12,6 +12,8 @@ image:
 
 Now, I know you think lasagna is always better with some nice ground-up beef or pork or whatever meat you like mixed in. But this recipe is proof you don't need to break your wallet on meat in order to get a nice macro-friendly lasagna. At a price point of $1.94 dollars per meal and 450 calories (28% of which are from protein), I definitely recommend taking a stab at whipping a tray or two up. 
 
+[Click here](http://underwriteyourlife.com/meal%20prep/Week-9-Evaluation/) to see how the lasagna held up over the course of the week.
+
 <div class="c100 p57 big">
   <span>57% Carbs </span>
   <div class="slice">
