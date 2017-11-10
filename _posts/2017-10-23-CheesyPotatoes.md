@@ -10,8 +10,6 @@ image:
 
 # Cheesy Potatoes with Corn
 
-<img src="{{ site.url }}/images/Meal Prep/Week 7/Cheesy Potato and Corn/Closeup5.jpg">
-
 I combined butter, potatoes, corn, and cheese to make a deceptively delicious side-dish to serve alongside my Week 7's [lo mein](http://underwriteyourlife.com/recipe/LoMein/). [Click here](http://underwriteyourlife.com/meal%20prep/Week7Evaluation/) to read more about how these potatoes held up over Week 7. 
 
 <figure class="half">
