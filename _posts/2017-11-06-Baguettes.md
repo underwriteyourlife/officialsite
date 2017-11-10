@@ -12,7 +12,7 @@ image:
 
 Since I knew I wasn't going to be eating these fresh (they were served alongside my [veggie lasagna](http://underwriteyourlife.com/recipe/Veggie-Lasagna/) in this week's meal prep), I did a variation on a traditional baguette that had a little more flavor. To me, the best thing about baking your own bread is seeing how cheap it is. After you make your first baguette I have no doubt that you won't waste money again buying day-old bread at the grocery store: the total price of this recipe, which makes 2 baguettes, is .82 cents. With 8 servings of 2 1-inch slices each, that is 10 cents per serving!
 
-These were a great addition to the lasagna for a truly Italian-style lunch. [Click here]() to see how the baguettes held up over the course of the week. 
+These were a great addition to the lasagna for a truly Italian-style lunch. [Click here](http://underwriteyourlife.com/meal%20prep/Week-9-Evaluation/) to see how the baguettes held up over the course of the week. 
 
 <div class="c100 p85 big">
   <span>85% Carbs </span>
