@@ -12,7 +12,7 @@ image:
 
 So this is a recipe I found out of a book, and sadly I don't have the book anymore but I did find the recipe [here](https://books.google.com/books?id=jvSeAgAAQBAJ&pg=PT274&lpg=PT274&dq=marie+arnold+thai+curry&source=bl&ots=1_SMx3-74M&sig=hd_2W_CswHG4XUplOZy6MrjmQ40&hl=en&sa=X&ved=0ahUKEwie46aG1bTXAhVC6iYKHcEKADYQ6AEIODAG#v=onepage&q=marie%20arnold%20thai%20curry&f=false). The original recipe calls for this dish to be made as a Red Thai Curry, but I'm all about those Green Thai flavors, so I decided to just take my own spin on things. 
 
-The end result was absolutely delicious- I will surely make this again and I can't say I would change anything about it (except for maybe making more of it!). The recipe made 5 servings of 1.5 cups each, 592 calories per serving. [Click here](LINK) to see how the curry held up over the week. 
+The end result was absolutely delicious- I will surely make this again and I can't say I would change anything about it (except for maybe making more of it!). The recipe made 5 servings of 1.5 cups each, 592 calories per serving. [Click here](http://underwriteyourlife.com/meal%20prep/Week-9-Evaluation/) to see how the curry held up over the week. 
 
 <div class="c100 p80 big">
   <span>80% Carbs </span>
