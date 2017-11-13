@@ -44,9 +44,8 @@
         {% endif %}
       alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
-    {% if img.url %}
-        <a class="gallery-img" href="{{ url }}" {% if img.title %}title="{{ img.title }}"{% endif %}>
-        </a>
+    {% if img.title %}
+        title="{{ img.title }}"
     {% endif %}
   {% endfor %}
   
