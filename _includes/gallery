@@ -43,9 +43,6 @@
         {% endif %}
       alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
-    {% if img.url.caption %}
-      "{{img.url.caption}}"
-    {% endif %}
   {% endfor %}
   
   
