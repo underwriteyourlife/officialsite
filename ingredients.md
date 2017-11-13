@@ -1,9 +1,5 @@
 ---
 title: "Ingredients"
-categories:
-  - Post Formats
-tags:
-  - titled
 gallery:
   - url: Ingredients/Broccoli Florets- Trader Joes.jpg
     image_path: Ingredients/Broccoli Florets- Trader Joes.jpg
@@ -35,7 +31,7 @@ gallery:
 Photos of the ingredients I used: 
 
 
-{% include gallery caption="Ingredient Gallery" %}
+{% include gallery %}
 
 <!---
   - url: Ingredients/
