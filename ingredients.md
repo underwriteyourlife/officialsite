@@ -27,7 +27,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Photos of the ingredient's I used: 
+Photos of the ingredients I used: 
 
 
 {% include gallery caption="Ingredient Gallery" %}
