@@ -1,6 +1,5 @@
 ---
 title: "Ingredients"
-layout: default
 gallery:
   - url: Ingredients/Broccoli Florets- Trader Joes.jpg
     image_path: Ingredients/Broccoli Florets- Trader Joes.jpg
