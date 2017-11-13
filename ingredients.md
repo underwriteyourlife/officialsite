@@ -4,7 +4,7 @@ gallery:
   - url: Ingredients/Broccoli Florets- Trader Joes.jpg
     image_path: Ingredients/Broccoli Florets- Trader Joes.jpg
     alt: "Trader Joes Broccoli Florets"
-    subtitle: "Trader Joes Broccoli Florets"
+    title: "Trader Joes Broccoli Florets"
   - url: Ingredients/Diced Green Chiles- Trader Joes.jpg
     image_path: Ingredients/Diced Green Chiles- Trader Joes.jpg
     alt: "Trader Joes Diced Green Chiles"
