@@ -5,7 +5,7 @@ gallery:
   - url: Ingredients/Broccoli Florets- Trader Joes.jpg
     image_path: Ingredients/Broccoli Florets- Trader Joes.jpg
     alt: "Trader Joes Broccoli Florets"
-    include.caption: "Trader Joes Broccoli Florets"
+    subtitle: "Trader Joes Broccoli Florets"
   - url: Ingredients/Diced Green Chiles- Trader Joes.jpg
     image_path: Ingredients/Diced Green Chiles- Trader Joes.jpg
     alt: "Trader Joes Diced Green Chiles"
@@ -29,7 +29,7 @@ gallery:
     alt: "Trader Joes Shredded Carrots"
 ---
 
-Photo of the ingredients I used: 
+Photos of the ingredients I used: 
 
 
 {% include gallery caption="Ingredient Gallery" %}
