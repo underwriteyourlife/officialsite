@@ -43,10 +43,12 @@
         {% endif %}
       alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
-    {% if img.subtitle %}
-      <figcaption>{{include.subtitle}}</figcaption>
+    {% if img.url.caption %}
+      <figcaption>{{include.caption}}</figcaption>
     {% endif %}
   {% endfor %}
+  
+  
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
