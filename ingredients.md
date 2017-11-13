@@ -4,21 +4,27 @@ gallery:
   - url: Ingredients/Broccoli Florets- Trader Joes.jpg
     image_path: Ingredients/Broccoli Florets- Trader Joes.jpg
     alt: "Trader Joes Broccoli Florets"
-  - url: unsplash-gallery-image-2.jpg
-    image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: unsplash-gallery-image-3.jpg
-    image_path: unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-  - url: unsplash-gallery-image-1.jpg
-    image_path: unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: unsplash-gallery-image-2.jpg
-    image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: unsplash-gallery-image-3.jpg
-    image_path: unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: Ingredients/Diced Green Chiles- Trader Joes.jpg
+    image_path: Ingredients/Diced Green Chiles- Trader Joes.jpg
+    alt: "Trader Joes Diced Green Chiles"
+  - url: Ingredients/Flour.jpg
+    image_path: Ingredients/Flour.jpg
+    alt: "Flour"
+  - url: Ingredients/Gold Potatoes- Trader Joes.jpg
+    image_path: Ingredients/Gold Potatoes- Trader Joes.jpg
+    alt: "Trader Joes Gold Potatoes"
+  - url: Ingredients/Ground Turkey.jpg
+    image_path: Ingredients/Ground Turkey.jpg
+    alt: "Ground Turkey (20oz container)"
+  - url: Ingredients/Honey- Trader Joes.jpg
+    image_path: Ingredients/Honey- Trader Joes.jpg
+    alt: "Trader Joes- Honey"
+  - url: Ingredients/Raisins- Store Brand.jpg
+    image_path: Ingredients/Raisins- Store Brand.jpg
+    alt: "Raisins"
+  - url: Ingredients/Shredded Carrots- Trader Joes.jpg
+    image_path: Ingredients/Shredded Carrots- Trader Joes.jpg
+    alt: "Trader Joes Shredded Carrots"
 ---
 
 Photos of the ingredients I used: 
@@ -26,3 +32,16 @@ Photos of the ingredients I used:
 
 {% include gallery caption="Ingredient Gallery" %}
 
+<!---
+  - url: Ingredients/
+    image_path: Ingredients/
+    alt: ""
+  - url: Ingredients/
+    image_path: Ingredients/
+    alt: ""
+  - url: Ingredients/
+    image_path: Ingredients/
+    alt: ""
+-->
+
+   
