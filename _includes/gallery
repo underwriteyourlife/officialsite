@@ -23,27 +23,15 @@
       <a href=
         {% if img.url contains "http" %}
           "{{ img.url }}"
-              {% if img.title %}
-              {{ img.title }}
-              {% endif %}
         {% else %}
           "{{ img.url | prepend: "/images/" | prepend: base_path }}"
-          {% if img.title %}
-           {{ img.title }}
-          {% endif %}
         {% endif %}
       >
         <img src=
           {% if img.image_path contains "http" %}
             "{{ img.image_path }}"
-                      {% if img.title %}
-           {{ img.title }}
-          {% endif %}
           {% else %}
             "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
-          {% if img.title %}
-           {{ img.title }}
-          {% endif %}
           {% endif %}
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
@@ -51,14 +39,8 @@
       <img src=
         {% if img.image_path contains "http" %}
           "{{ img.image_path }}"
-                    {% if img.title %}
-           {{ img.title }}
-          {% endif %}
         {% else %}
           "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
-                    {% if img.title %}
-           {{ img.title }}
-          {% endif %}
         {% endif %}
       alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
