@@ -1,5 +1,9 @@
 ---
 title: "Ingredients"
+categories:
+  - Post Formats
+tags:
+  - titled
 gallery:
   - url: Ingredients/Broccoli Florets- Trader Joes.jpg
     image_path: Ingredients/Broccoli Florets- Trader Joes.jpg
