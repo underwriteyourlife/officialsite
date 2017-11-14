@@ -17,29 +17,46 @@
   {% assign gallery_layout = '' %}
 {% endif %}
 
-<figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}
       <a href=
         {% if img.url contains "http" %}
+            {% if img.title %}
+                "{{img.title}}"
+            {% endif %}
           "{{ img.url }}"
         {% else %}
+            {% if img.title %}
+                "{{img.title}}"
+            {% endif %}
           "{{ img.url | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
       >
         <img src=
           {% if img.image_path contains "http" %}
+                      {% if img.title %}
+                "{{img.title}}"
+            {% endif %}
             "{{ img.image_path }}"
           {% else %}
+              {% if img.title %}
+                "{{img.title}}"
+            {% endif %}
             "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
     {% else %}
       <img src=
+             {% if img.title %}
+                "{{img.title}}"
+            {% endif %}
         {% if img.image_path contains "http" %}
           "{{ img.image_path }}"
         {% else %}
+                    {% if img.title %}
+                "{{img.title}}"
+            {% endif %}
           "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
       alt="{% if img.alt %}{{ img.alt }}{% endif %}">
@@ -47,13 +64,11 @@
   {% endfor %}
   
   {% for img in gallery %}
-    {% if img.title %}
-      "{{img.title}}"
-    {% endif %}
+
   {% endfor %}
  
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
-</figure>
+
 
