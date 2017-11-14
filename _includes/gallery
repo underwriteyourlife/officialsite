@@ -13,8 +13,7 @@
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
-      {{img.title}}
-      <a href="{{ img.url | prepend: "/images/" | prepend: base_path }}"><img src="{{ img.image_path | prepend: "/images/" | prepend: base_path }}" alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      <a href="{{ img.url | prepend: "/images/" | prepend: base_path }}"> "{{img.title}}" <img src="{{ img.image_path | prepend: "/images/" | prepend: base_path }}" alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
   {% endfor %}
   
