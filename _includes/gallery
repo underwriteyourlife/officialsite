@@ -46,7 +46,12 @@
     {% endif %}
   {% endfor %}
   
-  
+  {% for img in gallery %}
+    {% if img.title %}
+      "{{img.title}}"
+    {% endif %}
+  {% endfor %}
+ 
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
