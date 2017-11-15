@@ -20,7 +20,7 @@ gallery:
   - url: Ingredients/Ground Turkey.jpg
     image_path: Ingredients/Ground Turkey.jpg
     alt: "Ground Turkey (20oz container)"
-    title: "Ground Turkey (20oz container)"
+    title: "Ground Turkey (20.3oz)"
   - url: Ingredients/Honey- Trader Joes.jpg
     image_path: Ingredients/Honey- Trader Joes.jpg
     alt: "Trader Joes- Honey"
