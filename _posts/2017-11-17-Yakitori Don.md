@@ -71,7 +71,6 @@ What I didn't realize, is that by adding some veggies to make it more of a meal 
 |	Green Onion	|	3	green onion	|	 $0.26 	|	3g	|	6g	|	0g	|	15 cal
 |	White Rice	|	2.5	dry cups	|	 $1.80 	|	30g	|	360g	|	0g	|	1500 cal
 |	Total	|	-	-	|	 $14.01 	|	231g	|	458g	|	34g	|	3007 cal
-|	Total/Day	|	--	--	|	 $2.80 	|	46g	|	92g	|	7g	|	601 cal
 |	Total/Meal	|	---	---	|	 $2.80 	|	46g	|	92g	|	7g	|	601 cal
 
 All together, this made 5 servings of chicken and broc- oh, I mean yakitori don, for $2.80 dollars per meal. 
