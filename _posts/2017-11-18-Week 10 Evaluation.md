@@ -24,7 +24,7 @@ Overall the flavors were fine. From the glowing reviews of this recipe from All 
 	<figcaption> Yakitori Don on Monday, while cooking, and on Thursday </figcaption>
 </figure>
 
-#[Turkey Chili](http://underwriteyourlife.com/recipe/Turkey-Chili/) 
+# [Turkey Chili](http://underwriteyourlife.com/recipe/Turkey-Chili/) 
 
 We all know the turkey chili was a safe bet. Ground meat takes a while to go bad, and anything in chili-form would probably be good for months after you cooked it if frozen. So like we all expected, the turkey chili was good from day 1 to day 7. It might have been because I started to get bored of the flavors, but by the end of the week I was having to down the chili with salt and pepper at work to really make the dish satisfying. 
 
