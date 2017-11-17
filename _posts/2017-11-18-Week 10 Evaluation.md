@@ -10,7 +10,7 @@ image:
 ---
 # Week 10 Meal Prep Evaluation
 
-Week 10's meal prep was overall pretty good! Nothing went bad or made me sick, so who am I to complain? However, there is no point in evaluating the [cinnamon raisin bagels](http://underwriteyourlife.com/recipe%20failure/Cinnamon-Raisin-Bagels/) because if you looked at that recipe, you already know how it turned out. If you'd like a refresher on Week 10's meals [click here](http://underwriteyourlife.com/meal%20prep/Week-10-Meal-Prep/)
+Week 10's meal prep was overall pretty good! Nothing went bad or made me sick, so who am I to complain? However, there is no point in evaluating the [cinnamon raisin bagels](http://underwriteyourlife.com/recipe%20failure/Cinnamon-Raisin-Bagels/) because if you looked at that recipe, you already know how it turned out. If you'd like a refresher on Week 10's meals [click here](http://underwriteyourlife.com/meal%20prep/Week-10-Meal-Prep/).
 
 # [Yakitori Don](http://underwriteyourlife.com/recipe/Yakitori-Don/)
 
