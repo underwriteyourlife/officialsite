@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 permalink: /
@@ -9,6 +8,7 @@ image:
   teaser: /Meal Prep/Week 3/Week 3 Teaser.jpg
   thumb: /Meal Prep/Week 3/Week 3 Teaser.jpg
 ---
+
 <div class="tiles">
 {% for post in site.posts %}
 	  {% include post-grid.html %}
