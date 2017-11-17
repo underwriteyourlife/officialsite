@@ -1,6 +1,6 @@
 ---
 title: "Week 10 Meal Prep"
-excerpt: 
+excerpt: Decided to celebrate breaking into the double-digits of meal prep by cooking the heck out of some bagels
 header:
   caption: Week 10 Finished Product
 image:
@@ -16,7 +16,7 @@ This week I decided to take on some more macro-friendly meals as well as recreat
 
 All together this week was a pretty good one! The bagels didn't go over too well, but the other two dishes were relatively safe and easy to make. At only $28 dollars for the week, or $5.56/day, I can't really complain! Plus, both these dishes are high in protein and lower-calorie, so you can eat a ton guilt-free.
 
-[Click here](http://underwriteyourlife.com/meal%20prep/Week10Evaluation/) to read my review about how each dish held up over the course of the week!
+[Click here](http://underwriteyourlife.com/meal%20prep/Week-10-Evaluation/) to read my review about how each dish held up over the course of the week!
 
 <div class="c100 p63 big">
   <span>63% Carbs </span>
