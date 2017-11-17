@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cinnamon Raisin Bagel
+title: Cinnamon Raisin Bagels
 category: Recipe Failure
 tags: Recipe Failure
-excerpt:  
+excerpt: Sometimes you have to fail so you can try, try, again  
 image:
   teaser: /Meal Prep/Week 10/Bagels/400x250 Teaser.jpg
 ---
