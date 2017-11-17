@@ -14,6 +14,8 @@ I found a delicious looking recipe on <a href="http://allrecipes.com/recipe/2795
 
 What I didn't realize, is that by adding some veggies to make it more of a meal and sautéing the meat instead of grilling, is that I was essentially creating the classic default meal-prep dinner of chicken and broccoli. That being said, chicken and broccoli is a meal-prep favorite because of its cheapness, high protein content, and ease of cooking- so I supposed I can't complain. Besides, the Yakitori Don flavors were delicious!
 
+[Click here](http://underwriteyourlife.com/meal%20prep/Week-10-Evaluation/) to read my review about how the yakitori don held up over the course of the week!
+
 <div class="c100 p63 big">
   <span>63% Carbs </span>
   <div class="slice">
