@@ -18,9 +18,10 @@ The Yakitori Don was still good, even a week after having made the dish. This wa
 
 Overall the flavors were fine. From the glowing reviews of this recipe from All Recipes, I expected it to be more delicious, however, that might be my own fault since I cooked the chicken in a pan instead of grilling it. But like I said, this recipe was cheap and nutritious, plus it took advantage of the ingredients I already had on-hand, so don't be surprised if you see me making this again in the future. 
 
-<figure class="half">
-  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/">
-  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/">
+<figure class="third">
+  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/Monday YD.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/Mixed YD.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/Thursday YD.jpg">
 	<figcaption> Yakitori Don on Monday, while cooking, and on Thursday </figcaption>
 </figure>
 
@@ -31,8 +32,8 @@ We all know the turkey chili was a safe bet. Ground meat takes a while to go bad
 Overall, the dish was as good as when I made it for Week 2's meal prep. The biggest shocker for my coworkers was that the lettuce didn't go brown and was still crunchy despite having pre-chopped and packaged it from the previous Saturday. 
 
 <figure class="third">
-  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/">
-  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/">
-  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/">
+  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/Monday TC.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/Mixed TC.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 10/Evaluation/Friday TC.jpg">
 	<figcaption> Turkey Chili on Monday, with the lettuce mixed in, and on Friday </figcaption>
 </figure>
