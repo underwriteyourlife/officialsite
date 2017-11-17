@@ -16,6 +16,8 @@ Woah woah woah, hold up, I know you're getting your pitchforks ready for a good 
 
 But to each their own, I guess. 
 
+[Click here](http://underwriteyourlife.com/meal%20prep/Week-10-Evaluation/) to read my review about how the turkey chili held up over the course of the week!
+
 <div class="c100 p49 big">
   <span>49% Carbs </span>
   <div class="slice">
