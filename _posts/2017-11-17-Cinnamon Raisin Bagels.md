@@ -115,7 +115,7 @@ Once the cinnamon and sugar are mixed fully into the dough, put it aside in an o
 
 After the dough as rested, re-knead it and divide the dough into equal sized balls. I decided to create 7 medium sized bagels, but the size and amount are completely up to you!
 
-Once they are rolled into circles, use your thumb and forefinger to create a hole on the inside of the bagel and use your fingers to quickly shape the dough into a bagel formation. 
+Once they are rolled into circles, use your thumb and forefinger to create a hole on the inside of the bagel and use your fingers to quickly shape the dough into a bagel formation. After they were shaped, I stuck raisins on the insides and folded the dough back over to cover them. On a few bagels I also stuck some raisins on the outside of the ring, but those didn't hold up well while boiling. 
 
 After the bagels were correctly formed, I broiled them for 2 minutes on each side in order to form a crunchy crust around the bagels. I hoped this would help the bagels hold up during boiling and make the final product more edible. 
 
@@ -147,6 +147,6 @@ Ultimately, I was able to eat one of the bagels right after they came out of the
 
 <figure class="half">
 	<img src="{{ site.url }}/images/Meal Prep/Week 10/Bagels/7 Boiled.jpg">
-	<img src="{{ site.url }}/images/Meal Prep/Week 10/Bagels/"7.5 Baked.jpg>
+	<img src="{{ site.url }}/images/Meal Prep/Week 10/Bagels/7.5 Baked.jpg">
 	<figcaption> Baked and Final Bagels </figcaption>
 </figure>
