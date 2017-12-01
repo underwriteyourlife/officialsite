@@ -19,7 +19,7 @@ After cooking the Jambalaya, I stuck the 5 servings into individual ziplock bags
 <figure class="third">
   <img src="{{ site.url }}/images/Meal Prep/Week 11/Evaluation/Thursday.jpg">
   <img src="{{ site.url }}/images/Meal Prep/Week 11/Evaluation/">
-  <img src="{{ site.url }}/images/Meal Prep/Week 11/Evaluation/">
+  <img src="{{ site.url }}/images/Meal Prep/Week 11/Evaluation/Monday.jpg">
 	<figcaption> Jambalaya on Monday, cooking on the stove, and on Friday </figcaption>
 </figure>
 
@@ -30,8 +30,8 @@ So, this looks horrible, I'm not even going to try to pretend that any of these 
 Additionally, freezing the meatloaf seemed to help with the fat content. When I took it out of the oven it wasn't able to keep its shape, but after wrapping and freezing the loaf it seemed to congeal better. It was a good freezer-friendly dish, but I don't think I could get another person to eat it if their life depended on it. 
 
 <figure class="third">
-  <img src="{{ site.url }}/images/Meal Prep/Week 11/Evaluation/Monday.jpg">
+  <img src="{{ site.url }}/images/Meal Prep/Week 11/Evaluation/">
   <img src="{{ site.url }}/images/Meal Prep/Week 11/Evaluation/">
   <img src="{{ site.url }}/images/Meal Prep/Week 11/Evaluation/Tuesday.jpg">
-	<figcaption> Meatloaf on Monday, cooking on the stove, and on Friday </figcaption>
+	<figcaption> Meatloaf on Monday, cooking in the oven, and on Friday </figcaption>
 </figure>
