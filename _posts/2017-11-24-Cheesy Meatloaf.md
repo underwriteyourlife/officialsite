@@ -10,11 +10,11 @@ image:
 
 # Cheesy Meatloaf
 
-So I was inspired after reading [this](https://www.rachaelraymag.com/recipe/cheeseburger-meatloaf-and-mashed-potatoes) recipe by Rachael Ray to make some meatloaf with a side of [mashed potatoes]() for dinner this week. When I pulled this sucker out of the oven, my only reaction was "Why Rachael? Why have you lied to me like this?"
+So I was inspired after reading [this](https://www.rachaelraymag.com/recipe/cheeseburger-meatloaf-and-mashed-potatoes) recipe by Rachael Ray to make some meatloaf with a side of [mashed potatoes](http://underwriteyourlife.com/recipe%20failure/Red-Onion-Mashed-Potatoes/) for dinner this week. When I pulled this sucker out of the oven, my only reaction was "Why Rachael? Why have you lied to me like this?"
 
-I followed the recipe to a tee (although I think using 80/20 ground beef was a mistake) and it looked absolutely horrid while I was baking it. Since I made this in coordination with my [week 11]() meal prep, I actually ended up freezing the meatloaf and eating it the following week because I was traveling for Thanksgiving. Rachael Ray didn't do me completely wrong, however, as this actually ended up tasting way better than it looked! I guess you can't judge a book by its cover, or in this case, a recipe by its ingredients. 
+I followed the recipe to a tee (although I think using 80/20 ground beef was a mistake) and it looked absolutely horrid while I was baking it. Since I made this in coordination with my [week 11](http://underwriteyourlife.com/meal%20prep/Week-11/) meal prep, I actually ended up freezing the meatloaf and eating it the following week because I was traveling for Thanksgiving. Rachael Ray didn't do me completely wrong, however, as this actually ended up tasting way better than it looked! I guess you can't judge a book by its cover, or in this case, a recipe by its ingredients. 
 
-[Click here]() to see how the meatloaf held up over the week(s) and how it froze. 
+[Click here](http://underwriteyourlife.com/meal%20prep/Week-11-Evaluation/) to see how the meatloaf held up over the week(s) and how it froze. 
 
 <figure class="half">
 	<img src="{{ site.url }}/images/Meal Prep/Week 11/Meatloaf/0 Ingredients.jpg">
