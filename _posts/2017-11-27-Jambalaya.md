@@ -14,7 +14,7 @@ Just when I thought I had already made every rice dish in the book, BAM, I remem
  
 This recipe made me 5 servings of Chicken Sausage Jambalaya for $3.20 per meal (including a side of chips) and a total of 630 calories each. It definitely would have been cheaper if I had used my sale-sausage instead of the andouille, but I think I deserve a little splurge this week. I made this dish as part of my [week 11] meal prep, so I actually ended up freezing these servings to eat the following week. 
 
-[Click here] to read about how the Jambalaya froze and re-heated during the week!
+[Click here](http://underwriteyourlife.com/meal%20prep/Week-11-Evaluation/) to read about how the Jambalaya froze and re-heated during the week!
 
 <figure class="half">
 	<img src="{{ site.url }}/images/Meal Prep/Week 11/Jambalaya/0 Ingredients.jpg">
