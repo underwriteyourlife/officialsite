@@ -71,7 +71,7 @@ I followed the recipe to a tee (although I think using 80/20 ground beef was a m
 
 <h2> Step 1 </h2>
 
-This is such a weird thing to make. Who was the first person who was like "yeah lets mash up some beef with ketchup and pickles then eat it!". But as I was writing that it occured to me that I kinda just described a bunless-hamburger, so I guess it's not that odd. 
+This is such a weird thing to make. Who was the first person who was like "yeah lets mash up some beef with ketchup and pickles then eat it!". But as I was writing that it occurred to me that I kinda just described a bunless-hamburger, so I guess it's not that odd. 
 
 Anyways, the first thing I did was chop up the onion and pickles. 
 
@@ -85,7 +85,7 @@ In a seprate bowl I added the eggs, panko, and ketchup. You can also add in any 
 
 <h2> Step 2 </h2>
 
-In order to get an accurate calorie and marco-count for this dish, I went ahead and weighed out the ground beef and cheese before mixing it into the bowl. 
+In order to get an accurate calorie and macro-count for this dish, I went ahead and weighed out the ground beef and cheese before mixing it into the bowl. 
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 11/Meatloaf/2 Meat Weight.jpg">
@@ -107,7 +107,7 @@ Once the meat and cheese was weighed, I added them into the bowl along with the 
 
 <h2> Step 4 </h2>
 
-Lastly, I poured the mixture into pans lined with tin-foil and baked for 40-50 minutes until fully cooked. Since I used 80/20 ground beef, the whole mixture was kinda fatty and "liquidy" but it harded up as it cooled down- I would reccomend using a lower fat content ground beef before baking!
+Lastly, I poured the mixture into pans lined with tin-foil and baked for 40-50 minutes until fully cooked. Since I used 80/20 ground beef, the whole mixture was kinda fatty and "liquidy" but it hardened up as it cooled down- I would recommend using a lower fat content ground beef before baking!
 
 Once it was cooked, I let the loafs cool on the counter top before wrapping them entirely in tin-foil and sticking them in the freezer to eat next week. Overall it wasn't too bad! The portion sizes (it made 6 for me) were a little small but still super filling. 
 
