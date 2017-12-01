@@ -10,9 +10,9 @@ image:
 
 # Red Onion Mashed Potatoes
 
-You may wonder: how can you possibly screw up mashed potatoes? They are mashed potatoes for Christ's sake- its not rocket science! Well, apparently it's too hard for my little brain because I thought adding Vanilla Almond Milk would be an acceptable substitute for heavy cream or literally anything else. Then I froze them. It MIGHT have been ok if I dind't try to freeze them first... maybe. But the vanilla almond milk flavor with the horrible texture after thawing was just hilariously bad. 
+You may wonder: how can you possibly screw up mashed potatoes? They are mashed potatoes for Christ's sake- it's not rocket science! Well, apparently, it's too hard for my little brain because I thought adding Vanilla Almond Milk would be an acceptable substitute for heavy cream or literally anything else. Then I froze them. It MIGHT have been ok if I didn't try to freeze them first... maybe. But the vanilla almond milk flavor with the horrible texture after thawing was just hilariously bad. 
 
-That being said... I did eat it. Maybe I am just too hungry or a total cheapsake but dammit I ate those potatoes every day this week. For that, I am proud. 
+That being said... I did eat it. Maybe I am just too hungry or a total cheapskate but dammit I ate those potatoes every day this week. For that, I am proud. 
 
 So you can stop reading here, I'm not sure why you would want instructions on how to make the world's worst mashed potatoes. 
 
@@ -80,15 +80,15 @@ As usual, the first thing I did was weigh out my potatoes and chop the red onion
 
 <h2> Step 2 </h2>
 
-Next, I boiled the red potatoes for about 25 minutes (until entirely soft). I drained the water, added the almond milk and red onion, then used a fork to mash the enture mixture together.
+Next, I boiled the red potatoes for about 25 minutes (until entirely soft). I drained the water, added the almond milk and red onion, then used a fork to mash the entire mixture together.
 
 Once it was fully incorporated, I let it cool, packed it in a huge ziplock bag, and froze the entire thing since I knew I wasn't going to be eating it for another week. 
 
-1/10 would not reccomend putting almond milk into your mashed potatoes. Obviously. 
+1/10 would not recommend putting almond milk into your mashed potatoes. Obviously. 
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 11/Mashed Potatoes/2 Boiling.jpg">
 	<img src="{{ site.url }}/images/Meal Prep/Week 11/Mashed Potatoes/2.5 Cooked.jpg">
 	<img src="{{ site.url }}/images/Meal Prep/Week 11/Mashed Potatoes/2.7 Mashed.jpg">
-	<figcaption> Biling potatoes, adding ingredients, and mashing it all together </figcaption>
+	<figcaption> Boiling potatoes, adding ingredients, and mashing it all together </figcaption>
 </figure>
