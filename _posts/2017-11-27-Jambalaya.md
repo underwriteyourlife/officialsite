@@ -3,14 +3,14 @@ layout: default
 title: Jambalaya
 category: Recipe
 tags: Recipe
-excerpt: Its so good that its more like... jam-BAM-laya! 
+excerpt: It's so good that it's more like... jam-BAM-laya! 
 image:
   teaser: /Meal Prep/Week 11/Jambalaya/400x250 Teaser.jpg
 ---
 
 # Jambalaya
 
-Just when I thought I had already made every rice dish in the book, BAM, I remember I forgot about the Creole classic: Jambalaya. Sadly, I went to Trader Joes before my local grocery store this time, so I got some Chicken Andouille Sausage at TJ before realizng that my other store was having a massive sausage sale (ha ha). So I picked up the giant package of "hot italian sausage" in the photo below for $2.75! But I only ended up using the chicken sausage in this dish- hopefully I can think of some good recipes for the italian sausage in the future. 
+Just when I thought I had already made every rice dish in the book, BAM, I remember I forgot about the Creole classic: Jambalaya. Sadly, I went to Trader Joes before my local grocery store this time, so I got some Chicken Andouille Sausage at TJ before realizing  that my other store was having a massive sausage sale (ha ha). So I picked up the giant package of "hot Italian sausage" in the photo below for $2.75! But I only ended up using the chicken sausage in this dish- hopefully I can think of some good recipes for the Italian sausage in the future. 
  
 This recipe made me 5 servings of Chicken Sausage Jambalaya for $3.20 per meal (including a side of chips) and a total of 630 calories each. It definitely would have been cheaper if I had used my sale-sausage instead of the andouille, but I think I deserve a little splurge this week. I made this dish as part of my [week 11] meal prep, so I actually ended up freezing these servings to eat the following week. 
 
@@ -114,7 +114,7 @@ Next, with the old oil and fat still in the plan, add your chopped garlic and co
 
 <h2> Step 4 </h2>
 
-Once the veggies are fully cooked, add the tomato with diced green chiles and stir to incorporate. 
+Once the veggies are fully cooked, add the tomato with diced green chilies and stir to incorporate. 
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 11/Jambalaya/4 Cooked.jpg">
@@ -125,7 +125,7 @@ Once the veggies are fully cooked, add the tomato with diced green chiles and st
 
 <h2> Step 5 </h2>
 
-At this point I realized that if I was going to be cooking rice in this pot that it was wayyy too small. So I move the veggie/tomato mixture into a big pot before trying to cook the rice. Once it was moved into the big pot, I added the chicken broth and brown rice, covered with a lid, and let simmer for 20 minutes. 
+At this point I realized that if I was going to be cooking rice in this pot that it was wayyy too small. So, I moved the veggie/tomato mixture into a big pot before trying to cook the rice. Once it was moved into the big pot, I added the chicken broth and brown rice, covered with a lid, and let simmer for 20 minutes. 
 
 I cooked, stirring occasionally, until the rice was soft and edible. Since this was part of my week 11 meal prep I decided to freeze the jambalaya until after Thanksgiving to eat the next week, so I divided out the jambalaya into 5 servings in ziplock baggies and froze them. 
 
