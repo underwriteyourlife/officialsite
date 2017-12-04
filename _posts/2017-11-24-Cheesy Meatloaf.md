@@ -109,7 +109,7 @@ Once the meat and cheese was weighed, I added them into the bowl along with the 
 
 Lastly, I poured the mixture into pans lined with tin-foil and baked for 40-50 minutes until fully cooked. Since I used 80/20 ground beef, the whole mixture was kinda fatty and "liquidy" but it hardened up as it cooled down- I would recommend using a lower fat content ground beef before baking!
 
-Once it was cooked, I let the loafs cool on the counter top before wrapping them entirely in tin-foil and sticking them in the freezer to eat next week. Overall it wasn't too bad! The portion sizes (it made 6 for me) were a little small but still super filling. 
+Once it was cooked, I let the loaves cool on the counter top before wrapping them entirely in tin-foil and sticking them in the freezer to eat next week. Overall it wasn't too bad! The portion sizes (it made 6 for me) were a little small but still super filling. 
 
 <figure class="third">
 	<img src="{{ site.url }}/images/Meal Prep/Week 11/Meatloaf/4 Oven.jpg">
