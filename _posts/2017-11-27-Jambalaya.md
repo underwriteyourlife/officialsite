@@ -12,7 +12,7 @@ image:
 
 Just when I thought I had already made every rice dish in the book, BAM, I remember I forgot about the Creole classic: Jambalaya. Sadly, I went to Trader Joes before my local grocery store this time, so I got some Chicken Andouille Sausage at TJ before realizing  that my other store was having a massive sausage sale (ha ha). So I picked up the giant package of "hot Italian sausage" in the photo below for $2.75! But I only ended up using the chicken sausage in this dish- hopefully I can think of some good recipes for the Italian sausage in the future. 
  
-This recipe made me 5 servings of Chicken Sausage Jambalaya for $3.20 per meal (including a side of chips) and a total of 630 calories each. It definitely would have been cheaper if I had used my sale-sausage instead of the andouille, but I think I deserve a little splurge this week. I made this dish as part of my [week 11] meal prep, so I actually ended up freezing these servings to eat the following week. 
+This recipe made me 5 servings of Chicken Sausage Jambalaya for $3.20 per meal (including a side of chips) and a total of 630 calories each. It definitely would have been cheaper if I had used my sale-sausage instead of the andouille, but I think I deserve a little splurge this week. I made this dish as part of my [week 11](http://underwriteyourlife.com/meal%20prep/Week-11/) meal prep, so I actually ended up freezing these servings to eat the following week. 
 
 [Click here](http://underwriteyourlife.com/meal%20prep/Week-11-Evaluation/) to read about how the Jambalaya froze and re-heated during the week!
 
