@@ -6,7 +6,7 @@ category: Meal Prep
 comments: true
 tags: Meal Prep
 image:
-  teaser: /Meal Prep/Week 12/Evaluation/400x250 Teaser Greyscale.png
+  teaser: /Meal Prep/Week 12/Evaluation/400x250 Greyscale.png
 ---
 # Week 12 Meal Prep Evaluation
 
